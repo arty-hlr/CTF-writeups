@@ -97,3 +97,42 @@ test
 Crafting the requests was a natural thing with the presence of the `echo` command in the OS, we just had to create them so that the CRC32 of each request is equal to one of the factors of the foldhash. For this, we used this tool: https://www.nayuki.io/page/forcing-a-files-crc-to-any-value which was perfect for the task.
 
 Well, the rest was programming, which took some time with some mistakes and problems along the road, but we made it and you can find the source code I used in this GitHub!
+
+You will find below the output of the script I wrote:
+
+```
+foldhash of "get-flag 0" is 0x86ede664022eccedbbe8
+
+Factors found:
+[8, 250091, 244079963, 1304805461]
+
+Original CRC-32: A27FDD4D
+Computed and wrote patch
+New CRC-32 successfully verified
+
+Original CRC-32: A27FDD4D
+Computed and wrote patch
+New CRC-32 successfully verified
+
+Original CRC-32: A27FDD4D
+Computed and wrote patch
+New CRC-32 successfully verified
+
+Original CRC-32: A27FDD4D
+Computed and wrote patch
+New CRC-32 successfully verified
+
+RSA SIG is:
+33b48827dbb2f1cb73d0514a506e037617186e9056fceb5304a8b549adcfeb904216aac4aaa4c50d8dec702483e985b9d43c3ca36e61cae4ef258ba365c762a0c0997c7846453ff745f00ee33758a4f44d47ba26ff80b11460c259285aaa183dd26a0defd5b3f2673a38c8012f4790e376a7871ee9e1ca6e969352a4f121f235
+
+RSA SIG is:
+4fab32725dd43d33be2b81bae8871846e5e1eac625ac2a07c885fe8d2970f314f933fea1395b82d448dc561c0e85f89bbbebbd6592f9885c6038f2279f0a86f2ffc1b9f14e32354f89ad0fa00208afe6dae86453c053546f2490f9d187ea31d2831bb9586023ef88f5a9ec3d041c539e1937596fcab7b42f2a10858e58a2825c
+
+RSA SIG is:
+ad3cbcce587332ebbb41b66363f780c014c96dcff333ffee3e2ce9300bf5ac7e034772960cb9d25b9cb1c6848fc4e644cea1fd6c211ec83b5f1b2b50569b94ec217e6048b128d3ad7e2693953f69441eff34c93bad89a369554e80cd6a3efac9a93994149c56b7eba816537f6848c3ab3cedb1df019ce078da6a622230e469b4
+
+RSA SIG is:
+51a78958c9a4c8fe478021e3cef252cfbd728ce4a23cd9b2ec32522d2f055c0e3d8a1a5718b0d8e22a06309944a985d2e473212faa083cc812f46d0285f172259ffc1b2e2a73fb50ba6223e9f80fb898fe8ba2797b35a7a94a3c8a12786febe82d7d30159dd4f08009ea24ce47991fcd8471f3d90c1786a14a8ba4ba67d5ba13
+
+The flag is: CTF{ugh_math_is_so_hard}
+```
