@@ -1,0 +1,3 @@
+This was a simple SHA512 cracking challenge, basically we had a list of users with the respective password's hash using SHA512 (notice the hashes start with `$6`, which is the code the `crypt` function uses for SHA512). Within the given hash there was the salt used, so all that remained was to make a dictionary file with all the letters, as we guessed that the cipher used to encrypt the file was a simple substitution cipher, and crack each user's hash using that dictionary.
+
+I was reading Violent Python a few weeks ago, and the first script they have you write is a MD5 cracking script for hashes in the `/etc/shadow` file, I had already modified it for SHA512 as it was an exercise in the book, so I just used that with slight changes. 
