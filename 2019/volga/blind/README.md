@@ -1,0 +1,3 @@
+This crypto challenge was based on the multiplicative property of RSA, basically if you want to encrypt something that can be factored, encrypting the factors and multiplying them (mod n) is the same as encrypting that something (at least with unpadded RSA). That was all we had to do there, convert `cat flag` to an integer with base64 encoding, then factor it, and have the server sign each factor. The only problem that arose is that in one of the factors of `cat flag`, there was a lone single quote, and the server didn't like it, so instead of having the server sign each of the three factors, we had to multiply to of them.
+
+`VolgaCTF{B1ind_y0ur_tru3_int3nti0n5}`
