@@ -1,0 +1,1 @@
+HarekazeCTF{dynamit3_with_a_las3r_b3am}
