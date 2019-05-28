@@ -1,0 +1,17 @@
+# Nmap 7.70 scan initiated Tue May 28 14:59:31 2019 as: nmap -vvv -p- -oN irked_full 10.10.10.117
+Nmap scan report for 10.10.10.117
+Host is up, received syn-ack (0.037s latency).
+Scanned at 2019-05-28 14:59:31 CEST for 23s
+Not shown: 65528 closed ports
+Reason: 65528 conn-refused
+PORT      STATE SERVICE    REASON
+22/tcp    open  ssh        syn-ack
+80/tcp    open  http       syn-ack
+111/tcp   open  rpcbind    syn-ack
+6697/tcp  open  ircs-u     syn-ack
+8067/tcp  open  infi-async syn-ack
+50039/tcp open  unknown    syn-ack
+65534/tcp open  unknown    syn-ack
+
+Read data files from: /usr/bin/../share/nmap
+# Nmap done at Tue May 28 14:59:54 2019 -- 1 IP address (1 host up) scanned in 23.92 seconds
