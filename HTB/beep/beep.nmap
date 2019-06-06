@@ -1,0 +1,23 @@
+# Nmap 7.70 scan initiated Thu May 30 13:17:22 2019 as: nmap -p- -oN beep.nmap 10.10.10.7
+Nmap scan report for 10.10.10.7
+Host is up (0.035s latency).
+Not shown: 65519 closed ports
+PORT      STATE SERVICE
+22/tcp    open  ssh
+25/tcp    open  smtp
+80/tcp    open  http
+110/tcp   open  pop3
+111/tcp   open  rpcbind
+143/tcp   open  imap
+443/tcp   open  https
+746/tcp   open  unknown
+993/tcp   open  imaps
+995/tcp   open  pop3s
+3306/tcp  open  mysql
+4190/tcp  open  sieve
+4445/tcp  open  upnotifyp
+4559/tcp  open  hylafax
+5038/tcp  open  unknown
+10000/tcp open  snet-sensor-mgmt
+
+# Nmap done at Thu May 30 13:17:47 2019 -- 1 IP address (1 host up) scanned in 24.90 seconds
