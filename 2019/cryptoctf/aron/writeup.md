@@ -39,7 +39,7 @@ which took as arguments 3 numbers, p, g, n which were given, and a vector a. The
 
 Our first idea was to use a new `n` with one 1 and 0 everywhere else so that `pow(g, a[i] * int(X[i]), p)` would be 1 except for the place where the 1 was, for example providing `n = 2^(len(a)-2)` (because the for loop in the gg function starts at 1) would give us `f_ax = g*pow(g, a[1], p) % p`, which we could then solve or bruteforce for a[1].
 
-There were two restrictions on the `n` that we could input for new numbers though, one wasin the PRF, that the binary size of n was not greater than the size of a (the vector), so we had an upper bound, and the second restriction was from another function, which basically said `Sorry, your input integer is small :P` for n < 2^65, so we had to provide a number bigger than 64 bits. These restrictions prevented us from inputting n = 2^i for `1 <= i < len(a)` as it would go below 2^64. But if we worked from 1000...000 through 11000...000 to 111...111, we'd be alright.
+There were two restrictions on the `n` that we could input for new numbers though, one was in the PRF, that the binary size of n was not greater than the size of a (the vector), so we had an upper bound, and the second restriction was from another function, which basically said `Sorry, your input integer is small :P` for n < 2^65, so we had to provide a number bigger than 64 bits. These restrictions prevented us from inputting n = 2^i for `1 <= i < len(a)` as it would go below 2^64. But if we worked from 1000...000 through 11000...000 to 111...111, we'd be alright.
 
 The first task was to bruteforce the length of a, which we did by inputting larger and larger powers of 2 until we got an EOF and this:
 ```
