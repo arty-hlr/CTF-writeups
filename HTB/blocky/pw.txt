@@ -1,4 +1,0 @@
-sqlHost = "localhost";
-sqlUser = "root";
-sqlPass = "8YsqfCTnvxAUeduzjNSXe22";
-
