@@ -1,0 +1,21 @@
+pop edx:
+    xor edx,edx;
+    pop ebx;
+    xor edx,ebx;
+
+pop ecx:
+    pop edx;
+    xchg edx,ecx;
+
+mov [ecx],0:
+    pop ecx;
+    mov [ecx],edx; pop stuff; pop 0 (->ebx); xor [ecx],bl;
+
+mov [ecx],edx:
+    pop ecx;
+    pop edx;
+    mov [ecx],edx; pop stuff; pop 0 (->ebx); xor [ecx],bl;
+
+xor [ecx],bl:
+    pop ecx;
+    pop ebx; xor [ecx],bl;
