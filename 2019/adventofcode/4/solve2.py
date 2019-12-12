@@ -12,10 +12,6 @@ def two_adjacent(digits):
     i = 0
     while True:
         for j in range(i+1,len(digits)):
-            # print("Digits:")
-            # print(digits[i],digits[j])
-            # print("Positions:")
-            # print(i,j)
             if digits[i] != digits[j]:
                 if j-i == 2:
                     return True
