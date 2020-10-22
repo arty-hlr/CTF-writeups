@@ -1,0 +1,4 @@
+https://wiki.newae.com/Correlation_Power_Analysis
+https://wiki.newae.com/Tutorial_B6_Breaking_AES_(Manual_CPA_Attack)
+https://www.youtube.com/watch?v=FktI4qSjzaE
+https://www.youtube.com/watch?v=bFfyROX7V0s

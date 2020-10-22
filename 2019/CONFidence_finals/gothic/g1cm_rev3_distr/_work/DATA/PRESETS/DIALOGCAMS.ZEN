@@ -1,0 +1,747 @@
+ZenGin Archive
+ver 1
+zCArchiverGeneric
+ASCII
+saveGame 1
+date 8.2.2001 16:12:27
+user Edenfeld
+END
+objects 50       
+END
+
+[% zCCSCamera:zCVob 30720 0]
+	pack=int:1
+	dataRaw=raw:fcd88c448be2c2426b34654329279244cc8d26435eb79f43ff758f4411fffd42caa89f430000803f0000000000000000000000000000803f0000000000000000000000000000803f012e
+	vobName=string:DIALOGCAM_AL
+	visual=string:INVISIBLE_ZCCSCAMERA.3DS
+	[visual zCProgMeshProto 0 1]
+	[]
+	[% zCEventManager 0 2]
+		cleared=bool:0
+		active=bool:0
+		[emCutscene % 0 0]
+		[]
+	[]
+	sleepMode=int:1
+	nextOnTimer=float:340282346638528860000000000000000000000.000000000
+	camTrjFOR=enum:1
+	targetTrjFOR=enum:1
+	loopMode=enum:0
+	splLerpMode=enum:1
+	ignoreFORVobRotCam=bool:0
+	ignoreFORVobRotTarget=bool:0
+	adaptToSurroundings=bool:0
+	easeToFirstKey=bool:0
+	easeFromLastKey=bool:0
+	totalTime=float:10.000000000
+	autoCamFocusVobName=string:
+	autoCamPlayerMovable=bool:1
+	autoCamUntriggerOnLastKey=bool:0
+	autoCamUntriggerOnLastKeyDelay=float:0.000000000
+	numPos=int:1
+	numTargets=int:1
+	[% zCCamTrj_KeyFrame:zCVob 34560 3]
+		pack=int:1
+		dataRaw=raw:d8f16b44a9ea0443f8a46a437acc7244c9ff1b43663a8143700c6e4488ff08438a746f430000803f0000000000000000000000000000803f0000000000000000000000000000803f012c
+		visual=string:INVISIBLE_ZCCAMTRJ_KEYFRAME.3DS
+		[visual zCProgMeshProto 0 4]
+		[]
+		[% zCEventManager 0 5]
+			cleared=bool:0
+			active=bool:0
+			[emCutscene % 0 0]
+			[]
+		[]
+		sleepMode=int:0
+		nextOnTimer=float:340282346638528860000000000000000000000.000000000
+		time=float:0.000000000
+		angleRollDeg=float:0.000000000
+		camFOVScale=float:1.000000000
+		motionType=enum:1
+		motionTypeFOV=enum:1
+		motionTypeRoll=enum:1
+		motionTypeTimeScale=enum:1
+		tension=float:0.000000000
+		bias=float:0.000000000
+		continuity=float:0.000000000
+		timeScale=float:1.000000000
+		timeIsFixed=bool:0
+		originalPose=raw:0000803f0000000000000000387e43c3000000000000803f00000000f8ff1f4100000000000000000000803f14ba9fc20000000000000000000000000000803f
+	[]
+	[% zCCamTrj_KeyFrame:zCVob 34560 6]
+		pack=int:1
+		dataRaw=raw:2f147244c1fa30438bd16a43d1ee7844e10f4843af508143c72e7444a00f35431da16f430000803f0000000000000000000000000000803f0000000000000000000000000000803f012c
+		visual=string:INVISIBLE_ZCCAMTRJ_KEYFRAME.3DS
+		[visual § 0 4]
+		[]
+		[% zCEventManager 0 7]
+			cleared=bool:0
+			active=bool:0
+			[emCutscene % 0 0]
+			[]
+		[]
+		sleepMode=int:0
+		nextOnTimer=float:340282346638528860000000000000000000000.000000000
+		time=float:0.000000000
+		angleRollDeg=float:0.000000000
+		camFOVScale=float:1.000000000
+		motionType=enum:1
+		motionTypeFOV=enum:1
+		motionTypeRoll=enum:1
+		motionTypeTimeScale=enum:1
+		tension=float:0.000000000
+		bias=float:0.000000000
+		continuity=float:0.000000000
+		timeScale=float:1.000000000
+		timeIsFixed=bool:0
+		originalPose=raw:0000803f0000000000000000dcf42ac3000000000000803f000000005e40584200000000000000000000803fee609fc20000000000000000000000000000803f
+	[]
+	paused=bool:0
+	started=bool:0
+	gotoTimeMode=bool:0
+	csTime=float:0.000000000
+[]
+[% zCCSCamera:zCVob 30720 8]
+	pack=int:1
+	dataRaw=raw:0021434418860c43b4f346425bbd4d449ea251433ff70b43075b48445b142a4316da0b430000803f0000000000000000000000000000803f0000000000000000000000000000803f012e
+	vobName=string:DIALOGCAM_AR
+	visual=string:INVISIBLE_ZCCSCAMERA.3DS
+	[visual § 0 1]
+	[]
+	[% zCEventManager 0 9]
+		cleared=bool:0
+		active=bool:0
+		[emCutscene % 0 0]
+		[]
+	[]
+	sleepMode=int:1
+	nextOnTimer=float:340282346638528860000000000000000000000.000000000
+	camTrjFOR=enum:1
+	targetTrjFOR=enum:1
+	loopMode=enum:0
+	splLerpMode=enum:1
+	ignoreFORVobRotCam=bool:0
+	ignoreFORVobRotTarget=bool:0
+	adaptToSurroundings=bool:0
+	easeToFirstKey=bool:0
+	easeFromLastKey=bool:0
+	totalTime=float:10.000000000
+	autoCamFocusVobName=string:
+	autoCamPlayerMovable=bool:1
+	autoCamUntriggerOnLastKey=bool:0
+	autoCamUntriggerOnLastKeyDelay=float:0.000000000
+	numPos=int:1
+	numTargets=int:1
+	[% zCCamTrj_KeyFrame:zCVob 34560 10]
+		pack=int:1
+		dataRaw=raw:291f75447cff2f43bb30a642cbf97b449c14474362d0d542c13977445b143443dfcfaf420000803f0000000000000000000000000000803f0000000000000000000000000000803f012c
+		visual=string:INVISIBLE_ZCCAMTRJ_KEYFRAME.3DS
+		[visual § 0 4]
+		[]
+		[% zCEventManager 0 11]
+			cleared=bool:0
+			active=bool:0
+			[emCutscene % 0 0]
+			[]
+		[]
+		sleepMode=int:0
+		nextOnTimer=float:340282346638528860000000000000000000000.000000000
+		time=float:0.000000000
+		angleRollDeg=float:0.000000000
+		camFOVScale=float:1.000000000
+		motionType=enum:1
+		motionTypeFOV=enum:1
+		motionTypeRoll=enum:1
+		motionTypeTimeScale=enum:1
+		tension=float:0.000000000
+		bias=float:0.000000000
+		continuity=float:0.000000000
+		timeScale=float:1.000000000
+		timeIsFixed=bool:0
+		originalPose=raw:0000803f0000000000000000e87a3b43000000000000803f000000000000204100000000000000000000803f9ac84fc20000000000000000000000000000803f
+	[]
+	[% zCCamTrj_KeyFrame:zCVob 34560 12]
+		pack=int:1
+		dataRaw=raw:9bc47744940f5c431e81a4423d9f7e44b4247343c420d44233df7944732460434220ae420000803f0000000000000000000000000000803f0000000000000000000000000000803f012c
+		visual=string:INVISIBLE_ZCCAMTRJ_KEYFRAME.3DS
+		[visual § 0 4]
+		[]
+		[% zCEventManager 0 13]
+			cleared=bool:0
+			active=bool:0
+			[emCutscene % 0 0]
+			[]
+		[]
+		sleepMode=int:0
+		nextOnTimer=float:340282346638528860000000000000000000000.000000000
+		time=float:0.000000000
+		angleRollDeg=float:0.000000000
+		camFOVScale=float:1.000000000
+		motionType=enum:1
+		motionTypeFOV=enum:1
+		motionTypeRoll=enum:1
+		motionTypeTimeScale=enum:1
+		tension=float:0.000000000
+		bias=float:0.000000000
+		continuity=float:0.000000000
+		timeScale=float:1.000000000
+		timeIsFixed=bool:0
+		originalPose=raw:0000803f0000000000000000b0104643000000000000803f000000006040584200000000000000000000803fd42753c20000000000000000000000000000803f
+	[]
+	paused=bool:0
+	started=bool:0
+	gotoTimeMode=bool:0
+	csTime=float:0.000000000
+[]
+[% zCCSCamera:zCVob 30720 14]
+	pack=int:1
+	dataRaw=raw:a6ac86448be2c24292fab4c3d3fa8b44cc8d26436add87c3a949894411fffd42feeb87c30000803f0000000000000000000000000000803f0000000000000000000000000000803f012e
+	vobName=string:DIALOGCAM_CL
+	visual=string:INVISIBLE_ZCCSCAMERA.3DS
+	[visual § 0 1]
+	[]
+	[% zCEventManager 0 15]
+		cleared=bool:0
+		active=bool:0
+		[emCutscene % 0 0]
+		[]
+	[]
+	sleepMode=int:1
+	nextOnTimer=float:340282346638528860000000000000000000000.000000000
+	camTrjFOR=enum:1
+	targetTrjFOR=enum:1
+	loopMode=enum:0
+	splLerpMode=enum:1
+	ignoreFORVobRotCam=bool:0
+	ignoreFORVobRotTarget=bool:0
+	adaptToSurroundings=bool:0
+	easeToFirstKey=bool:0
+	easeFromLastKey=bool:0
+	totalTime=float:10.000000000
+	autoCamFocusVobName=string:
+	autoCamPlayerMovable=bool:1
+	autoCamUntriggerOnLastKey=bool:0
+	autoCamUntriggerOnLastKeyDelay=float:0.000000000
+	numPos=int:1
+	numTargets=int:1
+	[% zCCamTrj_KeyFrame:zCVob 34560 16]
+		pack=int:1
+		dataRaw=raw:227a8344abea3943a982a5c373e78644cbff5043bf9a99c36e8784448aff3d43e01aa3c30000803f0000000000000000000000000000803f0000000000000000000000000000803f012c
+		visual=string:INVISIBLE_ZCCAMTRJ_KEYFRAME.3DS
+		[visual § 0 4]
+		[]
+		[% zCEventManager 0 17]
+			cleared=bool:0
+			active=bool:0
+			[emCutscene % 0 0]
+			[]
+		[]
+		sleepMode=int:0
+		nextOnTimer=float:340282346638528860000000000000000000000.000000000
+		time=float:0.000000000
+		angleRollDeg=float:0.000000000
+		camFOVScale=float:1.000000000
+		motionType=enum:1
+		motionTypeFOV=enum:1
+		motionTypeRoll=enum:1
+		motionTypeTimeScale=enum:1
+		tension=float:0.000000000
+		bias=float:0.000000000
+		continuity=float:0.000000000
+		timeScale=float:1.000000000
+		timeIsFixed=bool:0
+		originalPose=raw:0000803f0000000000000000604718c2000000000000803f0000000006007c4200000000000000000000803f107759c20000000000000000000000000000803f
+	[]
+	[% zCCamTrj_KeyFrame:zCVob 34560 18]
+		pack=int:1
+		dataRaw=raw:f8997d44c3fa34432e64d5c34d3a8244e30f4c43447cc9c390b47f44a20f394365fcd2c30000803f0000000000000000000000000000803f0000000000000000000000000000803f012c
+		visual=string:INVISIBLE_ZCCAMTRJ_KEYFRAME.3DS
+		[visual § 0 4]
+		[]
+		[% zCEventManager 0 19]
+			cleared=bool:0
+			active=bool:0
+			[emCutscene % 0 0]
+			[]
+		[]
+		sleepMode=int:0
+		nextOnTimer=float:340282346638528860000000000000000000000.000000000
+		time=float:0.000000000
+		angleRollDeg=float:0.000000000
+		camFOVScale=float:1.000000000
+		motionType=enum:1
+		motionTypeFOV=enum:1
+		motionTypeRoll=enum:1
+		motionTypeTimeScale=enum:1
+		tension=float:0.000000000
+		bias=float:0.000000000
+		continuity=float:0.000000000
+		timeScale=float:1.000000000
+		timeIsFixed=bool:0
+		originalPose=raw:0000803f000000000000000010f696c2000000000000803f000000006640684200000000000000000000803fce2016c30000000000000000000000000000803f
+	[]
+	paused=bool:0
+	started=bool:0
+	gotoTimeMode=bool:0
+	csTime=float:0.000000000
+[]
+[% zCCSCamera:zCVob 30720 20]
+	pack=int:1
+	dataRaw=raw:f2514043501d78418f9318435dc36a43b63ca942e1cd72430c3a554360403442b8b072430000803f0000000000000000000000000000803f0000000000000000000000000000803f012e
+	vobName=string:DIALOGCAM_CR
+	visual=string:INVISIBLE_ZCCSCAMERA.3DS
+	[visual § 0 1]
+	[]
+	[% zCEventManager 0 21]
+		cleared=bool:0
+		active=bool:0
+		[emCutscene % 0 0]
+		[]
+	[]
+	sleepMode=int:1
+	nextOnTimer=float:340282346638528860000000000000000000000.000000000
+	camTrjFOR=enum:1
+	targetTrjFOR=enum:1
+	loopMode=enum:0
+	splLerpMode=enum:1
+	ignoreFORVobRotCam=bool:0
+	ignoreFORVobRotTarget=bool:0
+	adaptToSurroundings=bool:0
+	easeToFirstKey=bool:0
+	easeFromLastKey=bool:0
+	totalTime=float:10.000000000
+	autoCamFocusVobName=string:
+	autoCamPlayerMovable=bool:1
+	autoCamUntriggerOnLastKey=bool:0
+	autoCamUntriggerOnLastKeyDelay=float:0.000000000
+	numPos=int:1
+	numTargets=int:1
+	[% zCCamTrj_KeyFrame:zCVob 34560 22]
+		pack=int:1
+		dataRaw=raw:4d7c804374f6cd4280c8424392318e43b520fc4253985a437eb184433220d642129847430000803f0000000000000000000000000000803f0000000000000000000000000000803f012c
+		visual=string:INVISIBLE_ZCCAMTRJ_KEYFRAME.3DS
+		[visual § 0 4]
+		[]
+		[% zCEventManager 0 23]
+			cleared=bool:0
+			active=bool:0
+			[emCutscene % 0 0]
+			[]
+		[]
+		sleepMode=int:0
+		nextOnTimer=float:340282346638528860000000000000000000000.000000000
+		time=float:0.000000000
+		angleRollDeg=float:0.000000000
+		camFOVScale=float:1.000000000
+		motionType=enum:1
+		motionTypeFOV=enum:1
+		motionTypeRoll=enum:1
+		motionTypeTimeScale=enum:1
+		tension=float:0.000000000
+		bias=float:0.000000000
+		continuity=float:0.000000000
+		timeScale=float:1.000000000
+		timeIsFixed=bool:0
+		originalPose=raw:0000803f0000000000000000c0a35042000000000000803f000000000400784200000000000000000000803f98622cc20000000000000000000000000000803f
+	[]
+	[% zCCamTrj_KeyFrame:zCVob 34560 24]
+		pack=int:1
+		dataRaw=raw:b5769f43a4169442de0d3d43fa2bad43e540c242b1dd5443e6aba34362409c4270dd41430000803f0000000000000000000000000000803f0000000000000000000000000000803f012c
+		visual=string:INVISIBLE_ZCCAMTRJ_KEYFRAME.3DS
+		[visual § 0 4]
+		[]
+		[% zCEventManager 0 25]
+			cleared=bool:0
+			active=bool:0
+			[emCutscene % 0 0]
+			[]
+		[]
+		sleepMode=int:0
+		nextOnTimer=float:340282346638528860000000000000000000000.000000000
+		time=float:0.000000000
+		angleRollDeg=float:0.000000000
+		camFOVScale=float:1.000000000
+		motionType=enum:1
+		motionTypeFOV=enum:1
+		motionTypeRoll=enum:1
+		motionTypeTimeScale=enum:1
+		tension=float:0.000000000
+		bias=float:0.000000000
+		continuity=float:0.000000000
+		timeScale=float:1.000000000
+		timeIsFixed=bool:0
+		originalPose=raw:0000803f0000000000000000803be442000000000000803f000000006440044200000000000000000000803f204d43c20000000000000000000000000000803f
+	[]
+	paused=bool:0
+	started=bool:0
+	gotoTimeMode=bool:0
+	csTime=float:0.000000000
+[]
+[% zCCSCamera:zCVob 30720 26]
+	pack=int:1
+	dataRaw=raw:7f7f994438560a4381486543accd9e44be724f436ac19f43821c9c447be42743d5b29f430000803f0000000000000000000000000000803f0000000000000000000000000000803f012e
+	vobName=string:DIALOGCAM_EL
+	visual=string:INVISIBLE_ZCCSCAMERA.3DS
+	[visual § 0 1]
+	[]
+	[% zCEventManager 0 27]
+		cleared=bool:0
+		active=bool:0
+		[emCutscene % 0 0]
+		[]
+	[]
+	sleepMode=int:1
+	nextOnTimer=float:340282346638528860000000000000000000000.000000000
+	camTrjFOR=enum:1
+	targetTrjFOR=enum:1
+	loopMode=enum:0
+	splLerpMode=enum:1
+	ignoreFORVobRotCam=bool:0
+	ignoreFORVobRotTarget=bool:0
+	adaptToSurroundings=bool:0
+	easeToFirstKey=bool:0
+	easeFromLastKey=bool:0
+	totalTime=float:5.000000000
+	autoCamFocusVobName=string:
+	autoCamPlayerMovable=bool:1
+	autoCamUntriggerOnLastKey=bool:0
+	autoCamUntriggerOnLastKeyDelay=float:0.000000000
+	numPos=int:1
+	numTargets=int:1
+	[% zCCamTrj_KeyFrame:zCVob 34560 28]
+		pack=int:1
+		dataRaw=raw:cf999f449ccf5743b20fbf432007a344bce46e439cf7ca431ba7a0447be45b437b77c1430000803f0000000000000000000000000000803f0000000000000000000000000000803f012c
+		visual=string:INVISIBLE_ZCCAMTRJ_KEYFRAME.3DS
+		[visual § 0 4]
+		[]
+		[% zCEventManager 0 29]
+			cleared=bool:0
+			active=bool:0
+			[emCutscene % 0 0]
+			[]
+		[]
+		sleepMode=int:0
+		nextOnTimer=float:340282346638528860000000000000000000000.000000000
+		time=float:0.000000000
+		angleRollDeg=float:0.000000000
+		camFOVScale=float:1.000000000
+		motionType=enum:1
+		motionTypeFOV=enum:1
+		motionTypeRoll=enum:1
+		motionTypeTimeScale=enum:1
+		tension=float:0.000000000
+		bias=float:0.000000000
+		continuity=float:0.000000000
+		timeScale=float:1.000000000
+		timeIsFixed=bool:0
+		originalPose=raw:0000803f000000000000000020531142000000000000803f000000000000504200000000000000000000803f981287420000000000000000000000000000803f
+	[]
+	[% zCCamTrj_KeyFrame:zCVob 34560 30]
+		pack=int:1
+		dataRaw=raw:d3949944b4df5c43d3a9934324029d44d4f47343bd919f431fa29a4493f460439c1196430000803f0000000000000000000000000000803f0000000000000000000000000000803f012c
+		visual=string:INVISIBLE_ZCCAMTRJ_KEYFRAME.3DS
+		[visual § 0 4]
+		[]
+		[% zCEventManager 0 31]
+			cleared=bool:0
+			active=bool:0
+			[emCutscene % 0 0]
+			[]
+		[]
+		sleepMode=int:0
+		nextOnTimer=float:340282346638528860000000000000000000000.000000000
+		time=float:0.000000000
+		angleRollDeg=float:0.000000000
+		camFOVScale=float:1.000000000
+		motionType=enum:1
+		motionTypeFOV=enum:1
+		motionTypeRoll=enum:1
+		motionTypeTimeScale=enum:1
+		tension=float:0.000000000
+		bias=float:0.000000000
+		continuity=float:0.000000000
+		timeScale=float:1.000000000
+		timeIsFixed=bool:0
+		originalPose=raw:0000803f000000000000000080313dc1000000000000803f000000006040644200000000000000000000803f90139ac10000000000000000000000000000803f
+	[]
+	paused=bool:0
+	started=bool:0
+	gotoTimeMode=bool:0
+	csTime=float:0.000000000
+[]
+[% zCCSCamera:zCVob 30720 32]
+	pack=int:1
+	dataRaw=raw:0021434418860c43b4f346425bbd4d449ea251433ff70b43075b48445b142a4316da0b430000803f0000000000000000000000000000803f0000000000000000000000000000803f012e
+	vobName=string:DIALOGCAM_ER
+	visual=string:INVISIBLE_ZCCSCAMERA.3DS
+	[visual § 0 1]
+	[]
+	[% zCEventManager 0 33]
+		cleared=bool:0
+		active=bool:0
+		[emCutscene % 0 0]
+		[]
+	[]
+	sleepMode=int:1
+	nextOnTimer=float:340282346638528860000000000000000000000.000000000
+	camTrjFOR=enum:1
+	targetTrjFOR=enum:1
+	loopMode=enum:0
+	splLerpMode=enum:1
+	ignoreFORVobRotCam=bool:0
+	ignoreFORVobRotTarget=bool:0
+	adaptToSurroundings=bool:0
+	easeToFirstKey=bool:0
+	easeFromLastKey=bool:0
+	totalTime=float:5.000000000
+	autoCamFocusVobName=string:
+	autoCamPlayerMovable=bool:1
+	autoCamUntriggerOnLastKey=bool:0
+	autoCamUntriggerOnLastKeyDelay=float:0.000000000
+	numPos=int:1
+	numTargets=int:1
+	[% zCCamTrj_KeyFrame:zCVob 34560 34]
+		pack=int:1
+		dataRaw=raw:2a563e447cff594367614b43cc3045449c1471433a316343c27040445b145e43f93050430000803f0000000000000000000000000000803f0000000000000000000000000000803f012c
+		visual=string:INVISIBLE_ZCCAMTRJ_KEYFRAME.3DS
+		[visual § 0 4]
+		[]
+		[% zCEventManager 0 35]
+			cleared=bool:0
+			active=bool:0
+			[emCutscene % 0 0]
+			[]
+		[]
+		sleepMode=int:0
+		nextOnTimer=float:340282346638528860000000000000000000000.000000000
+		time=float:0.000000000
+		angleRollDeg=float:0.000000000
+		camFOVScale=float:1.000000000
+		motionType=enum:1
+		motionTypeFOV=enum:1
+		motionTypeRoll=enum:1
+		motionTypeTimeScale=enum:1
+		tension=float:0.000000000
+		bias=float:0.000000000
+		continuity=float:0.000000000
+		timeScale=float:1.000000000
+		timeIsFixed=bool:0
+		originalPose=raw:0000803f0000000000000000a048fdc1000000000000803f000000000000504200000000000000000000803fc6ad88420000000000000000000000000000803f
+	[]
+	[% zCCamTrj_KeyFrame:zCVob 34560 36]
+		pack=int:1
+		dataRaw=raw:784b4944940f5f4304ffe6421a265044b4247643554f0b4310664b4473246343289ef0420000803f0000000000000000000000000000803f0000000000000000000000000000803f012c
+		visual=string:INVISIBLE_ZCCAMTRJ_KEYFRAME.3DS
+		[visual § 0 4]
+		[]
+		[% zCEventManager 0 37]
+			cleared=bool:0
+			active=bool:0
+			[emCutscene % 0 0]
+			[]
+		[]
+		sleepMode=int:0
+		nextOnTimer=float:340282346638528860000000000000000000000.000000000
+		time=float:0.000000000
+		angleRollDeg=float:0.000000000
+		camFOVScale=float:1.000000000
+		motionType=enum:1
+		motionTypeFOV=enum:1
+		motionTypeRoll=enum:1
+		motionTypeTimeScale=enum:1
+		tension=float:0.000000000
+		bias=float:0.000000000
+		continuity=float:0.000000000
+		timeScale=float:1.000000000
+		timeIsFixed=bool:0
+		originalPose=raw:0000803f000000000000000040c24241000000000000803f000000006040644200000000000000000000803f10589cc10000000000000000000000000000803f
+	[]
+	paused=bool:0
+	started=bool:0
+	gotoTimeMode=bool:0
+	csTime=float:0.000000000
+[]
+[% zCCSCamera:zCVob 30720 38]
+	pack=int:1
+	dataRaw=raw:4e75acc1c48d0742f66596c4669cd841eeffcd42f6c68ac4009031bfd0c67d42acfa8ac45f607f3f000000007fdc8ebd000000000000803f000000007fdc8e3d000000005f607f3f012e
+	vobName=string:DIALOGCAM_ML
+	visual=string:INVISIBLE_ZCCSCAMERA.3DS
+	[visual § 0 1]
+	[]
+	[% zCEventManager 0 39]
+		cleared=bool:0
+		active=bool:0
+		[emCutscene % 0 0]
+		[]
+	[]
+	sleepMode=int:1
+	nextOnTimer=float:340282346638528860000000000000000000000.000000000
+	camTrjFOR=enum:1
+	targetTrjFOR=enum:1
+	loopMode=enum:0
+	splLerpMode=enum:1
+	ignoreFORVobRotCam=bool:0
+	ignoreFORVobRotTarget=bool:0
+	adaptToSurroundings=bool:0
+	easeToFirstKey=bool:0
+	easeFromLastKey=bool:0
+	totalTime=float:10.000000000
+	autoCamFocusVobName=string:
+	autoCamPlayerMovable=bool:1
+	autoCamUntriggerOnLastKey=bool:0
+	autoCamUntriggerOnLastKeyDelay=float:0.000000000
+	numPos=int:1
+	numTargets=int:1
+	[% zCCamTrj_KeyFrame:zCVob 34560 40]
+		pack=int:1
+		dataRaw=raw:aa6973c3acb9ca42c30c78c4006756c3ede3f8421ea271c437b169c36ae3d2420cb476c465607f3f0000000082dc8ebd000000000000803f0000000082dc8e3d0000000065607f3f012c
+		visual=string:INVISIBLE_ZCCAMTRJ_KEYFRAME.3DS
+		[visual § 0 4]
+		[]
+		[% zCEventManager 0 41]
+			cleared=bool:0
+			active=bool:0
+			[emCutscene % 0 0]
+			[]
+		[]
+		sleepMode=int:0
+		nextOnTimer=float:340282346638528860000000000000000000000.000000000
+		time=float:0.000000000
+		angleRollDeg=float:0.000000000
+		camFOVScale=float:1.000000000
+		motionType=enum:1
+		motionTypeFOV=enum:1
+		motionTypeRoll=enum:1
+		motionTypeTimeScale=enum:1
+		tension=float:0.000000000
+		bias=float:0.000000000
+		continuity=float:0.000000000
+		timeScale=float:1.000000000
+		timeIsFixed=bool:0
+		originalPose=raw:0300803f0000000000000000c6b55fc3000000000000803f000000000400284200000000000000000300803f07f80c430000000000000000000000000000803f
+	[]
+	[% zCCamTrj_KeyFrame:zCVob 34560 42]
+		pack=int:1
+		dataRaw=raw:9d5feec2dcd9ca429eb17ac4485ab4c21d04f942f94674c4b8eedac29a03d342e75879c465607f3f0000000082dc8ebd000000000000803f0000000082dc8e3d0000000065607f3f012c
+		visual=string:INVISIBLE_ZCCAMTRJ_KEYFRAME.3DS
+		[visual § 0 4]
+		[]
+		[% zCEventManager 0 43]
+			cleared=bool:0
+			active=bool:0
+			[emCutscene % 0 0]
+			[]
+		[]
+		sleepMode=int:0
+		nextOnTimer=float:340282346638528860000000000000000000000.000000000
+		time=float:0.000000000
+		angleRollDeg=float:0.000000000
+		camFOVScale=float:1.000000000
+		motionType=enum:1
+		motionTypeFOV=enum:1
+		motionTypeRoll=enum:1
+		motionTypeTimeScale=enum:1
+		tension=float:0.000000000
+		bias=float:0.000000000
+		continuity=float:0.000000000
+		timeScale=float:1.000000000
+		timeIsFixed=bool:0
+		originalPose=raw:0300803f0000000000000000800cc9c2000000000000803f000000006440284200000000000000000300803fa181f3420000000000000000000000000000803f
+	[]
+	paused=bool:0
+	started=bool:0
+	gotoTimeMode=bool:0
+	csTime=float:0.000000000
+[]
+[% zCCSCamera:zCVob 30720 44]
+	pack=int:1
+	dataRaw=raw:f2514043501d78418f9318435dc36a43b63ca942e1cd72430c3a554360403442b8b072430000803f0000000000000000000000000000803f0000000000000000000000000000803f012e
+	vobName=string:DIALOGCAM_MR
+	visual=string:INVISIBLE_ZCCSCAMERA.3DS
+	[visual § 0 1]
+	[]
+	[% zCEventManager 0 45]
+		cleared=bool:0
+		active=bool:0
+		[emCutscene % 0 0]
+		[]
+	[]
+	sleepMode=int:1
+	nextOnTimer=float:340282346638528860000000000000000000000.000000000
+	camTrjFOR=enum:1
+	targetTrjFOR=enum:1
+	loopMode=enum:0
+	splLerpMode=enum:1
+	ignoreFORVobRotCam=bool:0
+	ignoreFORVobRotTarget=bool:0
+	adaptToSurroundings=bool:0
+	easeToFirstKey=bool:0
+	easeFromLastKey=bool:0
+	totalTime=float:10.000000000
+	autoCamFocusVobName=string:
+	autoCamPlayerMovable=bool:1
+	autoCamUntriggerOnLastKey=bool:0
+	autoCamUntriggerOnLastKeyDelay=float:0.000000000
+	numPos=int:1
+	numTargets=int:1
+	[% zCCamTrj_KeyFrame:zCVob 34560 46]
+		pack=int:1
+		dataRaw=raw:2980bd4374f6a542248dae436e35cb43b520d4420e75ba435ab5c1433220ae42edf4b0430000803f0000000000000000000000000000803f0000000000000000000000000000803f012c
+		visual=string:INVISIBLE_ZCCAMTRJ_KEYFRAME.3DS
+		[visual § 0 4]
+		[]
+		[% zCEventManager 0 47]
+			cleared=bool:0
+			active=bool:0
+			[emCutscene % 0 0]
+			[]
+		[]
+		sleepMode=int:0
+		nextOnTimer=float:340282346638528860000000000000000000000.000000000
+		time=float:0.000000000
+		angleRollDeg=float:0.000000000
+		camFOVScale=float:1.000000000
+		motionType=enum:1
+		motionTypeFOV=enum:1
+		motionTypeRoll=enum:1
+		motionTypeTimeScale=enum:1
+		tension=float:0.000000000
+		bias=float:0.000000000
+		continuity=float:0.000000000
+		timeScale=float:1.000000000
+		timeIsFixed=bool:0
+		originalPose=raw:0000803f0000000000000000a8302e43000000000000803f000000000400284200000000000000000000803f4472de420000000000000000000000000000803f
+	[]
+	[% zCCamTrj_KeyFrame:zCVob 34560 48]
+		pack=int:1
+		dataRaw=raw:edd3a543a416a6429b52ab433289b343e540d442853ab7431e09aa436240ae4264baad430000803f0000000000000000000000000000803f0000000000000000000000000000803f012c
+		visual=string:INVISIBLE_ZCCAMTRJ_KEYFRAME.3DS
+		[visual § 0 4]
+		[]
+		[% zCEventManager 0 49]
+			cleared=bool:0
+			active=bool:0
+			[emCutscene % 0 0]
+			[]
+		[]
+		sleepMode=int:0
+		nextOnTimer=float:340282346638528860000000000000000000000.000000000
+		time=float:0.000000000
+		angleRollDeg=float:0.000000000
+		camFOVScale=float:1.000000000
+		motionType=enum:1
+		motionTypeFOV=enum:1
+		motionTypeRoll=enum:1
+		motionTypeTimeScale=enum:1
+		tension=float:0.000000000
+		bias=float:0.000000000
+		continuity=float:0.000000000
+		timeScale=float:1.000000000
+		timeIsFixed=bool:0
+		originalPose=raw:0000803f000000000000000060b0fd42000000000000803f000000006440284200000000000000000000803f2088d1420000000000000000000000000000803f
+	[]
+	paused=bool:0
+	started=bool:0
+	gotoTimeMode=bool:0
+	csTime=float:0.000000000
+[]

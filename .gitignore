@@ -1,0 +1,4 @@
+**/*.pyc
+**/*.iso
+**/*.qcow2
+**/gothic.zip

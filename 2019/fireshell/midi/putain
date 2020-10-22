@@ -1,0 +1,30 @@
+ [[32m+[39m] Proof of Work my friend :)
+
+ [[32m+[39m] send the string that sha256(string)[-6:]: 141005
+
+141005
+
+[!] I'm at  1 -character
+
+[!] I'm at  2 -character
+
+[!] I'm at  3 -character
+
+[!] I'm at  4 -character
+
+[!] found  9I+j
+
+                    +++ [1m[32m[40mFireShellCTF - ProMIDI | By: @K4L1[0m   +++
+
+ [[1m[34m+[0m] Get the MIDI, check and decode.
+
+ [[1m[34m+[0m] Send in less than 5 seconds.
+
+ [[1m[34m+[0m] To start, type start: 
+   Starting...
+
+
+ [[36m+[0m] Challange 1 - Here:: TVRoZAAAAAYAAQACA8BNVHJrAAAACwD/UQMFFhUA/y8ATVRyawAAAFUAkDxkh0CAPGQAkH5kh0CAfmQAkEBkh0CAQGQAkDxkh0CAPGQAkC1kh0CALWQAkDRkh0CANGQAkDFkh0CAMWQAkH5kh0CAfmQAkD5kh0CAPmQA/y8A
+  Answer: 
+TVRoZAAAAAYAAQACA8BNVHJrAAAACwD/UQMFFhUA/y8ATVRyawAAAFUAkDxkh0CAPGQAkH5kh0CAfmQAkEBkh0CAQGQAkDxkh0CAPGQAkC1kh0CALWQAkDRkh0CANGQAkDFkh0CAMWQAkH5kh0CAfmQAkD5kh0CAPmQA/y8A
+  Answer:

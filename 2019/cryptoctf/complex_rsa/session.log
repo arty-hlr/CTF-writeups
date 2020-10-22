@@ -1,0 +1,322 @@
+08/12/19 12:09:25 v1.34.3 @ blackarch, System/Build Info: 
+Using GMP-ECM 7.0.4, Powered by GMP 6.1.2
+cached 78498 primes. pmax = 999983
+detected Intel(R) Core(TM) i7-8565U CPU @ 1.80GHz
+detected L1 = 32768 bytes, L2 = 8388608 bytes, CL = 64 bytes
+measured cpu frequency ~= 1992.060080
+using 20 random witnesses for Rabin-Miller PRP checks
+
+08/12/19 12:09:25 v1.34.3 @ blackarch, New random seeds: 3969341413, 3490845132
+
+08/12/19 12:12:10 v1.34.3 @ blackarch, System/Build Info: 
+Using GMP-ECM 7.0.4, Powered by GMP 6.1.2
+cached 78498 primes. pmax = 999983
+detected Intel(R) Core(TM) i7-8565U CPU @ 1.80GHz
+detected L1 = 32768 bytes, L2 = 8388608 bytes, CL = 64 bytes
+measured cpu frequency ~= 1992.045870
+using 20 random witnesses for Rabin-Miller PRP checks
+
+08/12/19 12:12:10 v1.34.3 @ blackarch, New random seeds: 2152276959, 3366007100
+
+08/12/19 12:12:10 v1.34.3 @ blackarch, Processing expression: factor(78)
+
+08/12/19 12:12:42 v1.34.3 @ blackarch, System/Build Info: 
+Using GMP-ECM 7.0.4, Powered by GMP 6.1.2
+cached 78498 primes. pmax = 999983
+detected Intel(R) Core(TM) i7-8565U CPU @ 1.80GHz
+detected L1 = 32768 bytes, L2 = 8388608 bytes, CL = 64 bytes
+measured cpu frequency ~= 1992.051810
+using 20 random witnesses for Rabin-Miller PRP checks
+
+08/12/19 12:12:42 v1.34.3 @ blackarch, New random seeds: 2567576726, 635201442
+
+08/12/19 12:12:42 v1.34.3 @ blackarch, Processing expression: factor(16)
+
+08/12/19 12:17:04 v1.34.3 @ blackarch, System/Build Info: 
+Using GMP-ECM 7.0.4, Powered by GMP 6.1.2
+cached 78498 primes. pmax = 999983
+detected Intel(R) Core(TM) i7-8565U CPU @ 1.80GHz
+detected L1 = 32768 bytes, L2 = 8388608 bytes, CL = 64 bytes
+measured cpu frequency ~= 1992.049860
+using 20 random witnesses for Rabin-Miller PRP checks
+
+08/12/19 12:17:04 v1.34.3 @ blackarch, New random seeds: 332987005, 380003682
+
+08/12/19 12:17:04 v1.34.3 @ blackarch, Processing expression: 'factor(8)'
+
+08/12/19 12:17:16 v1.34.3 @ blackarch, System/Build Info: 
+Using GMP-ECM 7.0.4, Powered by GMP 6.1.2
+cached 78498 primes. pmax = 999983
+detected Intel(R) Core(TM) i7-8565U CPU @ 1.80GHz
+detected L1 = 32768 bytes, L2 = 8388608 bytes, CL = 64 bytes
+measured cpu frequency ~= 1992.060910
+using 20 random witnesses for Rabin-Miller PRP checks
+
+08/12/19 12:17:16 v1.34.3 @ blackarch, New random seeds: 1657308393, 2473654530
+
+08/12/19 12:17:16 v1.34.3 @ blackarch, Processing expression: 'factor(8)'
+
+08/12/19 12:17:43 v1.34.3 @ blackarch, System/Build Info: 
+Using GMP-ECM 7.0.4, Powered by GMP 6.1.2
+cached 78498 primes. pmax = 999983
+detected Intel(R) Core(TM) i7-8565U CPU @ 1.80GHz
+detected L1 = 32768 bytes, L2 = 8388608 bytes, CL = 64 bytes
+measured cpu frequency ~= 1992.044520
+using 20 random witnesses for Rabin-Miller PRP checks
+
+08/12/19 12:17:43 v1.34.3 @ blackarch, New random seeds: 1847117330, 1513363661
+
+08/12/19 12:17:43 v1.34.3 @ blackarch, Processing expression: "factor(8)"
+
+08/12/19 12:17:59 v1.34.3 @ blackarch, System/Build Info: 
+Using GMP-ECM 7.0.4, Powered by GMP 6.1.2
+cached 78498 primes. pmax = 999983
+detected Intel(R) Core(TM) i7-8565U CPU @ 1.80GHz
+detected L1 = 32768 bytes, L2 = 8388608 bytes, CL = 64 bytes
+measured cpu frequency ~= 1992.053260
+using 20 random witnesses for Rabin-Miller PRP checks
+
+08/12/19 12:17:59 v1.34.3 @ blackarch, New random seeds: 1608859383, 118136200
+
+08/12/19 12:17:59 v1.34.3 @ blackarch, Processing expression: "factor(8)"
+
+08/12/19 12:18:09 v1.34.3 @ blackarch, System/Build Info: 
+Using GMP-ECM 7.0.4, Powered by GMP 6.1.2
+cached 78498 primes. pmax = 999983
+detected Intel(R) Core(TM) i7-8565U CPU @ 1.80GHz
+detected L1 = 32768 bytes, L2 = 8388608 bytes, CL = 64 bytes
+measured cpu frequency ~= 1992.051600
+using 20 random witnesses for Rabin-Miller PRP checks
+
+08/12/19 12:18:09 v1.34.3 @ blackarch, New random seeds: 2242064107, 1984332555
+
+08/12/19 12:18:09 v1.34.3 @ blackarch, Processing expression: "factor(8)"
+
+08/12/19 12:18:34 v1.34.3 @ blackarch, System/Build Info: 
+Using GMP-ECM 7.0.4, Powered by GMP 6.1.2
+cached 78498 primes. pmax = 999983
+detected Intel(R) Core(TM) i7-8565U CPU @ 1.80GHz
+detected L1 = 32768 bytes, L2 = 8388608 bytes, CL = 64 bytes
+measured cpu frequency ~= 1992.044370
+using 20 random witnesses for Rabin-Miller PRP checks
+
+08/12/19 12:18:34 v1.34.3 @ blackarch, New random seeds: 3697264253, 482559492
+
+08/12/19 12:18:34 v1.34.3 @ blackarch, Processing expression: factor(8)
+
+08/12/19 12:18:41 v1.34.3 @ blackarch, System/Build Info: 
+Using GMP-ECM 7.0.4, Powered by GMP 6.1.2
+cached 78498 primes. pmax = 999983
+detected Intel(R) Core(TM) i7-8565U CPU @ 1.80GHz
+detected L1 = 32768 bytes, L2 = 8388608 bytes, CL = 64 bytes
+measured cpu frequency ~= 1992.055410
+using 20 random witnesses for Rabin-Miller PRP checks
+
+08/12/19 12:18:41 v1.34.3 @ blackarch, New random seeds: 84099969, 234676979
+
+08/12/19 12:18:41 v1.34.3 @ blackarch, Processing expression: factor(8)
+
+08/12/19 12:20:55 v1.34.3 @ blackarch, System/Build Info: 
+Using GMP-ECM 7.0.4, Powered by GMP 6.1.2
+cached 78498 primes. pmax = 999983
+detected Intel(R) Core(TM) i7-8565U CPU @ 1.80GHz
+detected L1 = 32768 bytes, L2 = 8388608 bytes, CL = 64 bytes
+measured cpu frequency ~= 1992.060670
+using 20 random witnesses for Rabin-Miller PRP checks
+
+08/12/19 12:20:55 v1.34.3 @ blackarch, New random seeds: 56627083, 2517932888
+
+08/12/19 12:20:55 v1.34.3 @ blackarch, Processing expression: factor(8)
+
+08/12/19 16:21:30 v1.34.3 @ blackarch, System/Build Info: 
+Using GMP-ECM 7.0.4, Powered by GMP 6.1.2
+cached 78498 primes. pmax = 999983
+detected Intel(R) Core(TM) i7-8565U CPU @ 1.80GHz
+detected L1 = 32768 bytes, L2 = 8388608 bytes, CL = 64 bytes
+measured cpu frequency ~= 1992.050800
+using 20 random witnesses for Rabin-Miller PRP checks
+
+08/12/19 16:21:30 v1.34.3 @ blackarch, New random seeds: 1805962795, 79859085
+
+08/12/19 16:21:30 v1.34.3 @ blackarch, Processing expression: factor(789)
+
+08/12/19 16:21:45 v1.34.3 @ blackarch, System/Build Info: 
+Using GMP-ECM 7.0.4, Powered by GMP 6.1.2
+cached 78498 primes. pmax = 999983
+detected Intel(R) Core(TM) i7-8565U CPU @ 1.80GHz
+detected L1 = 32768 bytes, L2 = 8388608 bytes, CL = 64 bytes
+measured cpu frequency ~= 1992.049350
+using 20 random witnesses for Rabin-Miller PRP checks
+
+08/12/19 16:21:45 v1.34.3 @ blackarch, New random seeds: 1572922512, 2086282653
+
+08/12/19 16:21:45 v1.34.3 @ blackarch, Processing expression: factor(789)
+
+08/12/19 16:22:24 v1.34.3 @ blackarch, System/Build Info: 
+Using GMP-ECM 7.0.4, Powered by GMP 6.1.2
+cached 78498 primes. pmax = 999983
+detected Intel(R) Core(TM) i7-8565U CPU @ 1.80GHz
+detected L1 = 32768 bytes, L2 = 8388608 bytes, CL = 64 bytes
+measured cpu frequency ~= 1992.061690
+using 20 random witnesses for Rabin-Miller PRP checks
+
+08/12/19 16:22:24 v1.34.3 @ blackarch, New random seeds: 1332029373, 540913633
+
+08/12/19 16:22:24 v1.34.3 @ blackarch, Processing expression: factor(789)
+
+08/12/19 16:26:01 v1.34.3 @ blackarch, System/Build Info: 
+Using GMP-ECM 7.0.4, Powered by GMP 6.1.2
+cached 78498 primes. pmax = 999983
+detected Intel(R) Core(TM) i7-8565U CPU @ 1.80GHz
+detected L1 = 32768 bytes, L2 = 8388608 bytes, CL = 64 bytes
+measured cpu frequency ~= 1992.059170
+using 20 random witnesses for Rabin-Miller PRP checks
+
+08/12/19 16:26:01 v1.34.3 @ blackarch, New random seeds: 300246585, 3461363392
+
+08/12/19 16:26:01 v1.34.3 @ blackarch, Processing expression: factor(789)
+
+08/12/19 16:26:30 v1.34.3 @ blackarch, System/Build Info: 
+Using GMP-ECM 7.0.4, Powered by GMP 6.1.2
+cached 78498 primes. pmax = 999983
+detected Intel(R) Core(TM) i7-8565U CPU @ 1.80GHz
+detected L1 = 32768 bytes, L2 = 8388608 bytes, CL = 64 bytes
+measured cpu frequency ~= 1992.055330
+using 20 random witnesses for Rabin-Miller PRP checks
+
+08/12/19 16:26:30 v1.34.3 @ blackarch, New random seeds: 1496931749, 3901547374
+
+08/12/19 16:26:30 v1.34.3 @ blackarch, Processing expression: factor(789)
+
+08/12/19 16:26:53 v1.34.3 @ blackarch, System/Build Info: 
+Using GMP-ECM 7.0.4, Powered by GMP 6.1.2
+cached 78498 primes. pmax = 999983
+detected Intel(R) Core(TM) i7-8565U CPU @ 1.80GHz
+detected L1 = 32768 bytes, L2 = 8388608 bytes, CL = 64 bytes
+measured cpu frequency ~= 1992.050110
+using 20 random witnesses for Rabin-Miller PRP checks
+
+08/12/19 16:26:53 v1.34.3 @ blackarch, New random seeds: 174163339, 3964312398
+
+08/12/19 16:26:53 v1.34.3 @ blackarch, Processing expression: factor(789)
+
+08/12/19 16:43:36 v1.34.3 @ blackarch, System/Build Info: 
+Using GMP-ECM 7.0.4, Powered by GMP 6.1.2
+cached 78498 primes. pmax = 999983
+detected Intel(R) Core(TM) i7-8565U CPU @ 1.80GHz
+detected L1 = 32768 bytes, L2 = 8388608 bytes, CL = 64 bytes
+measured cpu frequency ~= 1992.043950
+using 20 random witnesses for Rabin-Miller PRP checks
+
+08/12/19 16:43:36 v1.34.3 @ blackarch, New random seeds: 2437872379, 243679378
+
+08/12/19 16:43:36 v1.34.3 @ blackarch, Processing expression: factor(1)
+
+08/12/19 16:48:22 v1.34.3 @ blackarch, System/Build Info: 
+Using GMP-ECM 7.0.4, Powered by GMP 6.1.2
+cached 78498 primes. pmax = 999983
+detected Intel(R) Core(TM) i7-8565U CPU @ 1.80GHz
+detected L1 = 32768 bytes, L2 = 8388608 bytes, CL = 64 bytes
+measured cpu frequency ~= 1992.048380
+using 20 random witnesses for Rabin-Miller PRP checks
+
+08/12/19 16:48:22 v1.34.3 @ blackarch, New random seeds: 3027814627, 2104656680
+
+08/12/19 16:48:22 v1.34.3 @ blackarch, Processing expression: factor(216155711196158380384284930714113962627687650571761350102323534945583515244920623515011432019861968634413262389582547442745814939936116371003555744576669359494200323631682905425193679598999068305855810576894940077927805725509417370711305048522471498967400303521618339078805288350033441406276713937)
+
+08/12/19 17:04:33 v1.34.3 @ blackarch, System/Build Info: 
+Using GMP-ECM 7.0.4, Powered by GMP 6.1.2
+cached 78498 primes. pmax = 999983
+detected Intel(R) Core(TM) i7-8565U CPU @ 1.80GHz
+detected L1 = 32768 bytes, L2 = 8388608 bytes, CL = 64 bytes
+measured cpu frequency ~= 1992.060860
+using 20 random witnesses for Rabin-Miller PRP checks
+
+08/12/19 17:04:33 v1.34.3 @ blackarch, New random seeds: 1838891825, 435267066
+
+08/12/19 17:04:33 v1.34.3 @ blackarch, Processing expression: factor(279419141921134062000642693208757566159571059065254483361208844973394448716073091570060429859515663071445328947626045691683515690762200351446939032620185125492183311166341924164962852152034062917251819071824513639407759141912120173143139875767071633633705444028402280178991297495129803669438887069)
+
+08/12/19 17:07:30 v1.34.3 @ blackarch, System/Build Info: 
+Using GMP-ECM 7.0.4, Powered by GMP 6.1.2
+cached 78498 primes. pmax = 999983
+detected Intel(R) Core(TM) i7-8565U CPU @ 1.80GHz
+detected L1 = 32768 bytes, L2 = 8388608 bytes, CL = 64 bytes
+measured cpu frequency ~= 1992.016060
+using 20 random witnesses for Rabin-Miller PRP checks
+
+08/12/19 17:07:30 v1.34.3 @ blackarch, New random seeds: 3775185871, 1964615552
+
+08/12/19 17:07:30 v1.34.3 @ blackarch, Processing expression: factor(287828248543372251767235927460465779832436350905165096289113983154770136815524554562122617685689510234846799154327105758505106885725783534798797330478272871197905774114632764150024572859055610033115612608104393078865976632762282994575742389293091010974474576689240070686418810101684080605826956861)
+
+08/12/19 17:09:47 v1.34.3 @ blackarch, System/Build Info: 
+Using GMP-ECM 7.0.4, Powered by GMP 6.1.2
+cached 78498 primes. pmax = 999983
+detected Intel(R) Core(TM) i7-8565U CPU @ 1.80GHz
+detected L1 = 32768 bytes, L2 = 8388608 bytes, CL = 64 bytes
+measured cpu frequency ~= 1992.021340
+using 20 random witnesses for Rabin-Miller PRP checks
+
+08/12/19 17:09:47 v1.34.3 @ blackarch, New random seeds: 1531074062, 2493039439
+
+08/12/19 17:09:47 v1.34.3 @ blackarch, Processing expression: factor(310043810414025751995628765390802000379898070157263645786933803873364831526128973847952890764941515995063608305820746831707444061265301740507785169051554475863032107628926803245150243506120729974663726891423112051118394661751223188244695904595055523214974325202206997028545216093668710839047143493)
+
+08/12/19 17:14:29 v1.34.3 @ blackarch, System/Build Info: 
+Using GMP-ECM 7.0.4, Powered by GMP 6.1.2
+cached 78498 primes. pmax = 999983
+detected Intel(R) Core(TM) i7-8565U CPU @ 1.80GHz
+detected L1 = 32768 bytes, L2 = 8388608 bytes, CL = 64 bytes
+measured cpu frequency ~= 1992.032150
+using 20 random witnesses for Rabin-Miller PRP checks
+
+08/12/19 17:14:29 v1.34.3 @ blackarch, New random seeds: 2075901759, 174346476
+
+08/12/19 17:14:29 v1.34.3 @ blackarch, Processing expression: factor(350656619998133749863152705289973920408801797263227379249011714933001672947181994067648924003704850087694511126038700492843137954260012981515241985778914399572104247361049864260976445922017511393649290965356159968022690775200896328835196455229495601970521540812664577698762367668410494311669067067)
+
+08/12/19 17:15:31 v1.34.3 @ blackarch, System/Build Info: 
+Using GMP-ECM 7.0.4, Powered by GMP 6.1.2
+cached 78498 primes. pmax = 999983
+detected Intel(R) Core(TM) i7-8565U CPU @ 1.80GHz
+detected L1 = 32768 bytes, L2 = 8388608 bytes, CL = 64 bytes
+measured cpu frequency ~= 1992.034420
+using 20 random witnesses for Rabin-Miller PRP checks
+
+08/12/19 17:15:31 v1.34.3 @ blackarch, New random seeds: 3987532338, 4095808850
+
+08/12/19 17:15:31 v1.34.3 @ blackarch, Processing expression: factor(523798234973672057815616366282184788689914464475366789649635110244926988221146346970101072821170675373131817146514404551497828395632314969711323858651649248038646920037432204764491443825667670326719059007086946835438270999668514246547090145380486986201223418020581499583573962084946106140094652443)
+
+08/12/19 17:48:16 v1.34.3 @ blackarch, System/Build Info: 
+Using GMP-ECM 7.0.4, Powered by GMP 6.1.2
+cached 78498 primes. pmax = 999983
+detected Intel(R) Core(TM) i7-8565U CPU @ 1.80GHz
+detected L1 = 32768 bytes, L2 = 8388608 bytes, CL = 64 bytes
+measured cpu frequency ~= 1992.064030
+using 20 random witnesses for Rabin-Miller PRP checks
+
+08/12/19 17:48:16 v1.34.3 @ blackarch, New random seeds: 2713575564, 2397273541
+
+08/12/19 17:48:16 v1.34.3 @ blackarch, Processing expression: factor(290593594845040544270775739001374728041264650433070571160729593477354703989072575572489744021050724540096335700772432608297563027980044142322740491254138415542794517578559740540247988759269474103911703133302743605975296177506994929732006605460701294375855105088234892045614978547161811817644938073)
+
+08/12/19 17:49:36 v1.34.3 @ blackarch, System/Build Info: 
+Using GMP-ECM 7.0.4, Powered by GMP 6.1.2
+cached 78498 primes. pmax = 999983
+detected Intel(R) Core(TM) i7-8565U CPU @ 1.80GHz
+detected L1 = 32768 bytes, L2 = 8388608 bytes, CL = 64 bytes
+measured cpu frequency ~= 1992.055150
+using 20 random witnesses for Rabin-Miller PRP checks
+
+08/12/19 17:49:36 v1.34.3 @ blackarch, New random seeds: 4181128376, 3343237049
+
+08/12/19 17:49:36 v1.34.3 @ blackarch, Processing expression: factor(247015029773223498835424671900953881911746225952231426796661475125444784627179060706480094001051029447655410315134331562907920179135628196065777701291111907190720695406416083893804635954908206370892839351920736787285777162194162690879801675111082491389878003437824055698842094487153033646589144987)
+
+08/12/19 17:50:35 v1.34.3 @ blackarch, System/Build Info: 
+Using GMP-ECM 7.0.4, Powered by GMP 6.1.2
+cached 78498 primes. pmax = 999983
+detected Intel(R) Core(TM) i7-8565U CPU @ 1.80GHz
+detected L1 = 32768 bytes, L2 = 8388608 bytes, CL = 64 bytes
+measured cpu frequency ~= 1992.058240
+using 20 random witnesses for Rabin-Miller PRP checks
+
+08/12/19 17:50:35 v1.34.3 @ blackarch, New random seeds: 1633171669, 828143504
+
+08/12/19 17:50:35 v1.34.3 @ blackarch, Processing expression: factor(453155994882660711261269687845833619622963614204094189932521722529159058325100463629782062048664480784665582075896774156371238923535049959755580146875044385195755274041942383706177642895347542064836170007484991338572159347988548448486269249802716196561766980622561545653946104957878468832641490147)
+

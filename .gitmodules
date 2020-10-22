@@ -1,0 +1,6 @@
+[submodule "angr_ctf"]
+	path = angr_ctf
+	url = https://github.com/jakespringer/angr_ctf.git
+[submodule "pwny_racing/episodes/csaw-2019-pwny-race"]
+	path = pwny_racing/episodes/csaw-2019-pwny-race
+	url = https://github.com/Vector35/csaw-2019-pwny-race.git

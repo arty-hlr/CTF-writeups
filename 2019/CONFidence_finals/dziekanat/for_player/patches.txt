@@ -1,0 +1,17 @@
+patch 402514 73
+patch 402517 73
+patch 40252a 73
+patch 4011ca 48
+patch 4011cb 85
+patch 4011cc c0
+patch 400fc2 08
+patch 40102c 7d
+patch 401009 8b
+patch 40100a 7c
+patch 40100b 24
+patch 40100c 0c
+patch 40100e 83
+patch 40100f ef
+patch 401010 08
+test
+

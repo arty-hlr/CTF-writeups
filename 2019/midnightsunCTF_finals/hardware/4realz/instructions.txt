@@ -1,0 +1,35 @@
+Instructions for the HW challenge
+
+Channel suggested settings settings
+CH1 - AC - 50mV
+CH2 - DC - 1.0V
+
+Horizontal: 2.00ms
+
+Trigger: on channel 2, rising edge, >1.0V
+
+To communicate to the target:
+  Serial port with the Following parameters: 9600-8-N-1
+  command syntax is the Following
+  p[hex-plaintext]\n - encrypts the plaintext
+    Reply
+    Reply is made by two parts: one ack and the encypted ciphertext.
+    The ack can be collected to analyze the response or scrapped.
+    The reply is always 34 characters long and is followed by the ack.
+
+  The commands need to a ascii string of 16bytes representing the payload in hex.
+  example of plaintext: pAEF634FEFF30BA500203CAA8998C003B\n
+
+  Before sending the plaintext always issue the x command. This clears the
+  buffer and puts the device under test back in a known state.
+
+Remember to plug in the USB memory in the scope before triggering the acquisition.
+
+
+
+When you recover the key you can extract the flag from this encrypted message
+dd526347656f46c53e3aaa1ea11be561
+f8d370373bd58baaa0d5f8f8bd803f5e
+0c2507e4bd1a10679a52f2ffcd8132ab
+Encryption is AES128 in CBC-mode and IV = '\x00'*16
+

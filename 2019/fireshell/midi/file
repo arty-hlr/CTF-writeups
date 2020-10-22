@@ -1,0 +1,24 @@
+midi.Pattern(format=1, resolution=960, tracks=\
+[midi.Track(\
+  [midi.SetTempoEvent(tick=0, data=[5, 22, 21]),
+   midi.EndOfTrackEvent(tick=0, data=[])]),
+ midi.Track(\
+  [midi.NoteOnEvent(tick=0, channel=0, data=[60, 100]),
+   midi.NoteOffEvent(tick=960, channel=0, data=[60, 100]),
+   midi.NoteOnEvent(tick=0, channel=0, data=[126, 100]),
+   midi.NoteOffEvent(tick=960, channel=0, data=[126, 100]),
+   midi.NoteOnEvent(tick=0, channel=0, data=[71, 100]),
+   midi.NoteOffEvent(tick=960, channel=0, data=[71, 100]),
+   midi.NoteOnEvent(tick=0, channel=0, data=[37, 100]),
+   midi.NoteOffEvent(tick=960, channel=0, data=[37, 100]),
+   midi.NoteOnEvent(tick=0, channel=0, data=[71, 100]),
+   midi.NoteOffEvent(tick=960, channel=0, data=[71, 100]),
+   midi.NoteOnEvent(tick=0, channel=0, data=[66, 100]),
+   midi.NoteOffEvent(tick=960, channel=0, data=[66, 100]),
+   midi.NoteOnEvent(tick=0, channel=0, data=[40, 100]),
+   midi.NoteOffEvent(tick=960, channel=0, data=[40, 100]),
+   midi.NoteOnEvent(tick=0, channel=0, data=[126, 100]),
+   midi.NoteOffEvent(tick=960, channel=0, data=[126, 100]),
+   midi.NoteOnEvent(tick=0, channel=0, data=[62, 100]),
+   midi.NoteOffEvent(tick=960, channel=0, data=[62, 100]),
+   midi.EndOfTrackEvent(tick=0, data=[])])])
