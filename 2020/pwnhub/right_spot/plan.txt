@@ -1,0 +1,14 @@
+1. Exploit signed comparison to write unlimited to mmapped section of heap
+2. Write smth smwhere (where???) (PIE!!!)
+3. Redirect execution to ROP chain (where???) (PIE!!!)
+4. ROP chain writes 'pwned!\n' to STDOUT and exits nicely with 0
+
+write consecutives chunks of 0x5f bytes:
+there 0x4
+'Y' * 0x14
+there 0x4
+'Y' * 0x14
+there 0x4
+'Y' * 0x14
+there 0x4
+'Y' * 0x13
