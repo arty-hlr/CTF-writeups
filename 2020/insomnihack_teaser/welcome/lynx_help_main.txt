@@ -1,0 +1,68 @@
+Lynx help files (usually in your local directories):
+
+   These Lynx documents are part of your local configuration:
+     * Lynx Users Guide -- complete account of all Lynx features
+     * Key-stroke Commands -- quick outline of what various keys do
+     * Line Editor -- when entering URLs etc
+     * Supported URLs -- how Lynx handles various types of URL
+     * About Lynx -- credits, copyright etc
+     * About Lynx-Dev -- the developers & how to contact them
+
+Other sources of Lynx help:
+
+   The Lynx configuration guide may also be local.
+     * lynx.cfg options -- a reference for advanced configurations
+     * lynx documentation -- supplementary documentation
+     * Lynx Help for Beginners -- quick help on many common problems
+     * Blynx -- Speech-Friendly Help for the visually impaired
+
+World Wide Web Consortium documents:
+
+     * HTML -- 5.1 -- 4.0 -- 3.2 -- 3.0 -- 2.0
+     * HTTP -- 1.1 -- 1.0
+     * XHTML -- 1.0
+     * Web Naming & Addressing Overview: URIs, URLs etc
+     * HTML Internationalization
+     * WWW Consortium: home page
+
+Help with HTML:
+
+     * HTML 4.0 Reference
+     * W3Schools
+     * HTML Goodies
+     * HTML Code Tutorial
+     * HTML Cheat Sheet - A Simple Guide to HTML
+
+HTML validation services:
+
+     * W3C HTML Validation Service
+     * WDG HTML Validator
+
+Other browsing software:
+
+     * GNU wget -- powerful & flexible non-interactive downloader
+     * Pavuk -- powerful & an even more-featured downloader
+     * cURL -- non-interactive downloader which supports HTTPS
+     * snarf -- small simple 1-file non-interactive downloader
+
+Historical interest
+
+     * NCSA Mosaic
+
+Search engines:
+
+   These work with Lynx as of 2014/01/10:
+     * Ask.com
+     * Baidu (Chinese)
+     * Bing
+     * Dogpile
+     * goo (Japanese)
+     * Google
+     * Hakia
+     * IceRocket
+     * Indeed
+     * Lexxe
+     * Rambler (Russian)
+     * Search.com
+     * WebCrawler
+     * Yahoo!

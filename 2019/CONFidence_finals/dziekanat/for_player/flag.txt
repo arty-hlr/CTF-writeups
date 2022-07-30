@@ -1,0 +1,66 @@
+Welcome
+[3][0x402514] => 0xa64252064252064
+[3][0x402514] <= 0xa64252064252073
+[3][0x402514] => 0xa64252064252073
+Running patch
+[3][0x402517] => 0x6557000a64252064
+[3][0x402517] <= 0x6557000a64252073
+[3][0x402517] => 0x6557000a64252073
+Running patch
+[3][0x40252a] => 0x6f6f6c00706d7564
+[3][0x40252a] <= 0x6f6f6c00706d7573
+[3][0x40252a] => 0x6f6f6c00706d7573
+Running patch
+[3][0x4011ca] => 0xbd840f909090
+[3][0x4011ca] <= 0xbd840f909048
+[3][0x4011ca] => 0xbd840f909048
+Running patch
+[3][0x4011cb] => 0xbd840f9090
+[3][0x4011cb] <= 0xbd840f9085
+[3][0x4011cb] => 0xbd840f9085
+Running patch
+[3][0x4011cc] => 0x48000000bd840f90
+[3][0x4011cc] <= 0x48000000bd840fc0
+[3][0x4011cc] => 0x48000000bd840fc0
+Running patch
+[3][0x400fc2] => 0x48e8294800000000
+[3][0x400fc2] <= 0x48e8294800000008
+[3][0x400fc2] => 0x48e8294800000008
+Running patch
+[3][0x40102c] => 0xfa0ae8df8948ba75
+[3][0x40102c] <= 0xfa0ae8df8948ba7d
+[3][0x40102c] => 0xfa0ae8df8948ba7d
+Running patch
+[3][0x401009] => 0x5e7c148c03c8d48
+[3][0x401009] <= 0x5e7c148c03c8d8b
+[3][0x401009] => 0x5e7c148c03c8d8b
+Running patch
+[3][0x40100a] => 0x4805e7c148c03c8d
+[3][0x40100a] <= 0x4805e7c148c03c7c
+[3][0x40100a] => 0x4805e7c148c03c7c
+Running patch
+[3][0x40100b] => 0x14805e7c148c03c
+[3][0x40100b] <= 0x14805e7c148c024
+[3][0x40100b] => 0x14805e7c148c024
+Running patch
+[3][0x40100c] => 0xef014805e7c148c0
+[3][0x40100c] <= 0xef014805e7c1480c
+[3][0x40100c] => 0xef014805e7c1480c
+Running patch
+[3][0x40100e] => 0x7e8ef014805e7c1
+[3][0x40100e] <= 0x7e8ef014805e783
+[3][0x40100e] => 0x7e8ef014805e783
+Running patch
+[3][0x40100f] => 0xfb07e8ef014805e7
+[3][0x40100f] <= 0xfb07e8ef014805ef
+[3][0x40100f] => 0xfb07e8ef014805ef
+Running patch
+[3][0x401010] => 0xfffb07e8ef014805
+[3][0x401010] <= 0xfffb07e8ef014808
+[3][0x401010] => 0xfffb07e8ef014808
+Running patch
+Executing 'save' command in program...
+Restarting process.
+Executing 'load' command in program...
+Testing if data was preserved...
+Congratulations, flag: p4{b1n4ry_p4tch1nk_dean's_office}

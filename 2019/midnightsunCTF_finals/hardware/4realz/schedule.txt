@@ -1,0 +1,35 @@
+Schedule for the oscilloscopes:
+
+Station 1 (left table):
+17:30 - Dragon Sector
+18:30 - LC1BC
+19:30 - RedRocket
+20:30 - whatever
+21:30 - Corrupted Lights
+22:30 - ALLES
+23:30 - perfect blue
+00:30 - KTHCTF0x1
+01:30 - OpenToAll
+02:30 - dcua
+03:30 - upbhack
+04:30 - ID10Ts
+05:30 - showeremoji
+06:30 - LiUhack
+
+
+
+Station 2 (right table):
+17:30 - KTHCTF0x1
+18:30 - OpenToAll
+19:30 - dcua
+20:30 - upbhack
+21:30 - ID10Ts
+22:30 - showeremoji
+23:30 - LiUhack
+00:30 - Dragon Sector
+01:30 - LC1BC
+02:30 - RedRocket
+03:30 - whatever
+04:30 - Corrupted Lights
+05:30 - ALLES
+06:30 - perfect blue

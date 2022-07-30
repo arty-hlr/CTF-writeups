@@ -1,0 +1,35 @@
+This is source code for solution of challenge Beard from VolgaCTF Quals 2019.
+
+It's using SageMath Python2 version (e.g. version 8.9).
+
+It's using older versino of cryptools framework (https://github.com/hellman/cryptools tag py2-archived).
+(It is present in this archive)
+
+How to run on a locally generated key:
+
+First, generate some amount of pt/ct data. 0x30000 was enough for me.
+
+$ sage2 playing.py
+
+Stop manually after generated enough (can append later).
+
+Preprocess data:
+
+$ sage2 prepro.py
+
+Run attack:
+
+$ sage2 analyze.py
+
+...
+K11 [181, 286, 685, 452, 69, 798, 889, 480]
+
+Put K11 inside analyze.py, run again
+
+$ sage2 analyze.py
+
+K11 [181, 286, 685, 452, 69, 798, 889, 480]
+k10p [116, 441, 109, 457, 988, 409, 599, 391]
+K10 (240, 512, 468, 36, 261, 381, 259, 428)
+master key 414243443132333461626364 'ABCD1234abcd'
+

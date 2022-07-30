@@ -1,0 +1,2 @@
+write(1,'pwned!\n',7)
+exit(0)

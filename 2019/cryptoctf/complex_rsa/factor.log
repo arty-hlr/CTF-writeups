@@ -1,0 +1,330 @@
+08/12/19 12:09:31 v1.34.3 @ blackarch, 
+08/12/19 12:09:31 v1.34.3 @ blackarch, ****************************
+08/12/19 12:09:31 v1.34.3 @ blackarch, Starting factorization of 329245172637662104259731144289434466313816219984009047113768479512029505660318322279978864981810239662425167966711087796525619930814794261761468543273836515258505647268088000600723043981982265468401524882442241664477414603249436413467891550587602940569259504496329693624742227496511439041383625783
+08/12/19 12:09:31 v1.34.3 @ blackarch, using pretesting plan: normal
+08/12/19 12:09:31 v1.34.3 @ blackarch, no tune info: using qs/gnfs crossover of 95 digits
+08/12/19 12:09:31 v1.34.3 @ blackarch, ****************************
+08/12/19 12:09:31 v1.34.3 @ blackarch, rho: x^2 + 3, starting 1000 iterations on C297
+08/12/19 12:09:31 v1.34.3 @ blackarch, rho: x^2 + 2, starting 1000 iterations on C297
+08/12/19 12:09:31 v1.34.3 @ blackarch, rho: x^2 + 1, starting 1000 iterations on C297
+08/12/19 12:09:31 v1.34.3 @ blackarch, pm1: starting B1 = 150K, B2 = gmp-ecm default on C297
+08/12/19 12:09:31 v1.34.3 @ blackarch, current ECM pretesting depth: 0.00
+08/12/19 12:09:31 v1.34.3 @ blackarch, scheduled 30 curves at B1=2000 toward target pretesting depth of 91.38
+08/12/19 12:09:32 v1.34.3 @ blackarch, Finished 30 curves using Lenstra ECM method on C297 input, B1=2K, B2=gmp-ecm default
+08/12/19 12:09:32 v1.34.3 @ blackarch, current ECM pretesting depth: 15.18
+08/12/19 12:09:32 v1.34.3 @ blackarch, scheduled 74 curves at B1=11000 toward target pretesting depth of 91.38
+08/12/19 12:09:37 v1.34.3 @ blackarch, prp18 = 164374679762468951 (curve 33 stg2 B1=11000 sigma=939362577 thread=0)
+08/12/19 12:09:37 v1.34.3 @ blackarch, Finished 33 curves using Lenstra ECM method on C297 input, B1=11K, B2=gmp-ecm default
+08/12/19 12:09:37 v1.34.3 @ blackarch, current ECM pretesting depth: 17.41
+08/12/19 12:09:37 v1.34.3 @ blackarch, scheduled 41 curves at B1=11000 toward target pretesting depth of 86.15
+08/12/19 12:09:41 v1.34.3 @ blackarch, prp280 = 2003016359413996615996446568105991749510827235865408694980573830741366263333644199354971268369080252524253245779592448229904003167288814210235439354754436402061497934192427735346972975495028402868294044438856001912773287817421040563661214673364550687172340585752298326869808070433
+08/12/19 12:09:41 v1.34.3 @ blackarch, Total factoring time = 10.2912 seconds
+08/12/19 12:12:10 v1.34.3 @ blackarch, 
+08/12/19 12:12:10 v1.34.3 @ blackarch, ****************************
+08/12/19 12:12:10 v1.34.3 @ blackarch, Starting factorization of 78
+08/12/19 12:12:10 v1.34.3 @ blackarch, using pretesting plan: normal
+08/12/19 12:12:10 v1.34.3 @ blackarch, no tune info: using qs/gnfs crossover of 95 digits
+08/12/19 12:12:10 v1.34.3 @ blackarch, ****************************
+08/12/19 12:12:10 v1.34.3 @ blackarch, div: found prime factor = 2
+08/12/19 12:12:10 v1.34.3 @ blackarch, div: found prime factor = 3
+08/12/19 12:12:10 v1.34.3 @ blackarch, div: found prime factor = 13
+08/12/19 12:12:10 v1.34.3 @ blackarch, Total factoring time = 0.0002 seconds
+08/12/19 12:12:42 v1.34.3 @ blackarch, 
+08/12/19 12:12:42 v1.34.3 @ blackarch, ****************************
+08/12/19 12:12:42 v1.34.3 @ blackarch, Starting factorization of 16
+08/12/19 12:12:42 v1.34.3 @ blackarch, using pretesting plan: normal
+08/12/19 12:12:42 v1.34.3 @ blackarch, no tune info: using qs/gnfs crossover of 95 digits
+08/12/19 12:12:42 v1.34.3 @ blackarch, ****************************
+08/12/19 12:12:42 v1.34.3 @ blackarch, 
+08/12/19 12:12:42 v1.34.3 @ blackarch, ****************************
+08/12/19 12:12:42 v1.34.3 @ blackarch, Starting factorization of 4
+08/12/19 12:12:42 v1.34.3 @ blackarch, using pretesting plan: normal
+08/12/19 12:12:42 v1.34.3 @ blackarch, no tune info: using qs/gnfs crossover of 95 digits
+08/12/19 12:12:42 v1.34.3 @ blackarch, ****************************
+08/12/19 12:12:42 v1.34.3 @ blackarch, prp1 = 2
+08/12/19 12:12:42 v1.34.3 @ blackarch, prp1 = 2
+08/12/19 12:12:42 v1.34.3 @ blackarch, input is a perfect power
+08/12/19 12:12:42 v1.34.3 @ blackarch, prp1 = 2
+08/12/19 12:12:42 v1.34.3 @ blackarch, prp1 = 2
+08/12/19 12:12:42 v1.34.3 @ blackarch, prp1 = 2
+08/12/19 12:12:42 v1.34.3 @ blackarch, prp1 = 2
+08/12/19 12:12:42 v1.34.3 @ blackarch, prp1 = 2
+08/12/19 12:12:42 v1.34.3 @ blackarch, prp1 = 2
+08/12/19 12:12:42 v1.34.3 @ blackarch, input is a perfect power
+08/12/19 12:12:42 v1.34.3 @ blackarch, prp1 = 2
+08/12/19 12:12:42 v1.34.3 @ blackarch, prp1 = 2
+08/12/19 12:12:42 v1.34.3 @ blackarch, prp1 = 2
+08/12/19 12:12:42 v1.34.3 @ blackarch, prp1 = 2
+08/12/19 12:18:34 v1.34.3 @ blackarch, 
+08/12/19 12:18:34 v1.34.3 @ blackarch, ****************************
+08/12/19 12:18:34 v1.34.3 @ blackarch, Starting factorization of 8
+08/12/19 12:18:34 v1.34.3 @ blackarch, using pretesting plan: normal
+08/12/19 12:18:34 v1.34.3 @ blackarch, no tune info: using qs/gnfs crossover of 95 digits
+08/12/19 12:18:34 v1.34.3 @ blackarch, ****************************
+08/12/19 12:18:34 v1.34.3 @ blackarch, prp1 = 2
+08/12/19 12:18:34 v1.34.3 @ blackarch, prp1 = 2
+08/12/19 12:18:34 v1.34.3 @ blackarch, prp1 = 2
+08/12/19 12:18:34 v1.34.3 @ blackarch, input is a perfect power
+08/12/19 12:18:34 v1.34.3 @ blackarch, prp1 = 2
+08/12/19 12:18:34 v1.34.3 @ blackarch, prp1 = 2
+08/12/19 12:18:34 v1.34.3 @ blackarch, prp1 = 2
+08/12/19 12:18:41 v1.34.3 @ blackarch, 
+08/12/19 12:18:41 v1.34.3 @ blackarch, ****************************
+08/12/19 12:18:41 v1.34.3 @ blackarch, Starting factorization of 8
+08/12/19 12:18:41 v1.34.3 @ blackarch, using pretesting plan: normal
+08/12/19 12:18:41 v1.34.3 @ blackarch, no tune info: using qs/gnfs crossover of 95 digits
+08/12/19 12:18:41 v1.34.3 @ blackarch, ****************************
+08/12/19 12:18:41 v1.34.3 @ blackarch, prp1 = 2
+08/12/19 12:18:41 v1.34.3 @ blackarch, prp1 = 2
+08/12/19 12:18:41 v1.34.3 @ blackarch, prp1 = 2
+08/12/19 12:18:41 v1.34.3 @ blackarch, input is a perfect power
+08/12/19 12:18:41 v1.34.3 @ blackarch, prp1 = 2
+08/12/19 12:18:41 v1.34.3 @ blackarch, prp1 = 2
+08/12/19 12:18:41 v1.34.3 @ blackarch, prp1 = 2
+08/12/19 12:20:55 v1.34.3 @ blackarch, 
+08/12/19 12:20:55 v1.34.3 @ blackarch, ****************************
+08/12/19 12:20:55 v1.34.3 @ blackarch, Starting factorization of 8
+08/12/19 12:20:55 v1.34.3 @ blackarch, using pretesting plan: normal
+08/12/19 12:20:55 v1.34.3 @ blackarch, no tune info: using qs/gnfs crossover of 95 digits
+08/12/19 12:20:55 v1.34.3 @ blackarch, ****************************
+08/12/19 12:20:55 v1.34.3 @ blackarch, prp1 = 2
+08/12/19 12:20:55 v1.34.3 @ blackarch, prp1 = 2
+08/12/19 12:20:55 v1.34.3 @ blackarch, prp1 = 2
+08/12/19 12:20:55 v1.34.3 @ blackarch, input is a perfect power
+08/12/19 12:20:55 v1.34.3 @ blackarch, prp1 = 2
+08/12/19 12:20:55 v1.34.3 @ blackarch, prp1 = 2
+08/12/19 12:20:55 v1.34.3 @ blackarch, prp1 = 2
+08/12/19 16:21:30 v1.34.3 @ blackarch, 
+08/12/19 16:21:30 v1.34.3 @ blackarch, ****************************
+08/12/19 16:21:30 v1.34.3 @ blackarch, Starting factorization of 789
+08/12/19 16:21:30 v1.34.3 @ blackarch, using pretesting plan: normal
+08/12/19 16:21:30 v1.34.3 @ blackarch, no tune info: using qs/gnfs crossover of 95 digits
+08/12/19 16:21:30 v1.34.3 @ blackarch, ****************************
+08/12/19 16:21:30 v1.34.3 @ blackarch, div: found prime factor = 3
+08/12/19 16:21:30 v1.34.3 @ blackarch, div: found prime factor = 263
+08/12/19 16:21:30 v1.34.3 @ blackarch, Total factoring time = 0.0002 seconds
+08/12/19 16:21:45 v1.34.3 @ blackarch, 
+08/12/19 16:21:45 v1.34.3 @ blackarch, ****************************
+08/12/19 16:21:45 v1.34.3 @ blackarch, Starting factorization of 789
+08/12/19 16:21:45 v1.34.3 @ blackarch, using pretesting plan: normal
+08/12/19 16:21:45 v1.34.3 @ blackarch, no tune info: using qs/gnfs crossover of 95 digits
+08/12/19 16:21:45 v1.34.3 @ blackarch, ****************************
+08/12/19 16:21:45 v1.34.3 @ blackarch, div: found prime factor = 3
+08/12/19 16:21:45 v1.34.3 @ blackarch, div: found prime factor = 263
+08/12/19 16:21:45 v1.34.3 @ blackarch, Total factoring time = 0.0002 seconds
+08/12/19 16:22:24 v1.34.3 @ blackarch, 
+08/12/19 16:22:24 v1.34.3 @ blackarch, ****************************
+08/12/19 16:22:24 v1.34.3 @ blackarch, Starting factorization of 789
+08/12/19 16:22:24 v1.34.3 @ blackarch, using pretesting plan: normal
+08/12/19 16:22:24 v1.34.3 @ blackarch, no tune info: using qs/gnfs crossover of 95 digits
+08/12/19 16:22:24 v1.34.3 @ blackarch, ****************************
+08/12/19 16:22:24 v1.34.3 @ blackarch, div: found prime factor = 3
+08/12/19 16:22:24 v1.34.3 @ blackarch, div: found prime factor = 263
+08/12/19 16:22:24 v1.34.3 @ blackarch, Total factoring time = 0.0002 seconds
+08/12/19 16:26:01 v1.34.3 @ blackarch, 
+08/12/19 16:26:01 v1.34.3 @ blackarch, ****************************
+08/12/19 16:26:01 v1.34.3 @ blackarch, Starting factorization of 789
+08/12/19 16:26:01 v1.34.3 @ blackarch, using pretesting plan: normal
+08/12/19 16:26:01 v1.34.3 @ blackarch, no tune info: using qs/gnfs crossover of 95 digits
+08/12/19 16:26:01 v1.34.3 @ blackarch, ****************************
+08/12/19 16:26:01 v1.34.3 @ blackarch, div: found prime factor = 3
+08/12/19 16:26:01 v1.34.3 @ blackarch, div: found prime factor = 263
+08/12/19 16:26:01 v1.34.3 @ blackarch, Total factoring time = 0.0001 seconds
+08/12/19 16:26:30 v1.34.3 @ blackarch, 
+08/12/19 16:26:30 v1.34.3 @ blackarch, ****************************
+08/12/19 16:26:30 v1.34.3 @ blackarch, Starting factorization of 789
+08/12/19 16:26:30 v1.34.3 @ blackarch, using pretesting plan: normal
+08/12/19 16:26:30 v1.34.3 @ blackarch, no tune info: using qs/gnfs crossover of 95 digits
+08/12/19 16:26:30 v1.34.3 @ blackarch, ****************************
+08/12/19 16:26:30 v1.34.3 @ blackarch, div: found prime factor = 3
+08/12/19 16:26:30 v1.34.3 @ blackarch, div: found prime factor = 263
+08/12/19 16:26:30 v1.34.3 @ blackarch, Total factoring time = 0.0001 seconds
+08/12/19 16:26:53 v1.34.3 @ blackarch, 
+08/12/19 16:26:53 v1.34.3 @ blackarch, ****************************
+08/12/19 16:26:53 v1.34.3 @ blackarch, Starting factorization of 789
+08/12/19 16:26:53 v1.34.3 @ blackarch, using pretesting plan: normal
+08/12/19 16:26:53 v1.34.3 @ blackarch, no tune info: using qs/gnfs crossover of 95 digits
+08/12/19 16:26:53 v1.34.3 @ blackarch, ****************************
+08/12/19 16:26:53 v1.34.3 @ blackarch, div: found prime factor = 3
+08/12/19 16:26:53 v1.34.3 @ blackarch, div: found prime factor = 263
+08/12/19 16:26:53 v1.34.3 @ blackarch, Total factoring time = 0.0001 seconds
+08/12/19 16:48:22 v1.34.3 @ blackarch, 
+08/12/19 16:48:22 v1.34.3 @ blackarch, ****************************
+08/12/19 16:48:22 v1.34.3 @ blackarch, Starting factorization of 216155711196158380384284930714113962627687650571761350102323534945583515244920623515011432019861968634413262389582547442745814939936116371003555744576669359494200323631682905425193679598999068305855810576894940077927805725509417370711305048522471498967400303521618339078805288350033441406276713937
+08/12/19 16:48:22 v1.34.3 @ blackarch, using pretesting plan: normal
+08/12/19 16:48:22 v1.34.3 @ blackarch, no tune info: using qs/gnfs crossover of 95 digits
+08/12/19 16:48:22 v1.34.3 @ blackarch, ****************************
+08/12/19 16:48:22 v1.34.3 @ blackarch, rho: x^2 + 3, starting 1000 iterations on C297
+08/12/19 16:48:22 v1.34.3 @ blackarch, rho: x^2 + 2, starting 1000 iterations on C297
+08/12/19 16:48:22 v1.34.3 @ blackarch, rho: x^2 + 1, starting 1000 iterations on C297
+08/12/19 16:48:22 v1.34.3 @ blackarch, pm1: starting B1 = 150K, B2 = gmp-ecm default on C297
+08/12/19 16:48:22 v1.34.3 @ blackarch, prp18 = 179446951999364141
+08/12/19 16:48:22 v1.34.3 @ blackarch, current ECM pretesting depth: 0.00
+08/12/19 16:48:22 v1.34.3 @ blackarch, scheduled 30 curves at B1=2000 toward target pretesting depth of 86.15
+08/12/19 16:48:27 v1.34.3 @ blackarch, prp280 = 1204566078096017560477354813717323730202913306220572887492141088031695186358001606984741900568351139419558118639667550600167983399312285810013975914840498579242710615768952131071169766829529939536795635596635084746285612663184748850421850797118871579347892808372643246969412491957
+08/12/19 16:48:27 v1.34.3 @ blackarch, Total factoring time = 5.1464 seconds
+08/12/19 17:04:33 v1.34.3 @ blackarch, 
+08/12/19 17:04:33 v1.34.3 @ blackarch, ****************************
+08/12/19 17:04:33 v1.34.3 @ blackarch, Starting factorization of 279419141921134062000642693208757566159571059065254483361208844973394448716073091570060429859515663071445328947626045691683515690762200351446939032620185125492183311166341924164962852152034062917251819071824513639407759141912120173143139875767071633633705444028402280178991297495129803669438887069
+08/12/19 17:04:33 v1.34.3 @ blackarch, using pretesting plan: normal
+08/12/19 17:04:33 v1.34.3 @ blackarch, no tune info: using qs/gnfs crossover of 95 digits
+08/12/19 17:04:33 v1.34.3 @ blackarch, ****************************
+08/12/19 17:04:33 v1.34.3 @ blackarch, rho: x^2 + 3, starting 1000 iterations on C297
+08/12/19 17:04:33 v1.34.3 @ blackarch, rho: x^2 + 2, starting 1000 iterations on C297
+08/12/19 17:04:33 v1.34.3 @ blackarch, rho: x^2 + 1, starting 1000 iterations on C297
+08/12/19 17:04:33 v1.34.3 @ blackarch, pm1: starting B1 = 150K, B2 = gmp-ecm default on C297
+08/12/19 17:04:33 v1.34.3 @ blackarch, current ECM pretesting depth: 0.00
+08/12/19 17:04:33 v1.34.3 @ blackarch, scheduled 30 curves at B1=2000 toward target pretesting depth of 91.38
+08/12/19 17:04:34 v1.34.3 @ blackarch, Finished 30 curves using Lenstra ECM method on C297 input, B1=2K, B2=gmp-ecm default
+08/12/19 17:04:34 v1.34.3 @ blackarch, current ECM pretesting depth: 15.18
+08/12/19 17:04:34 v1.34.3 @ blackarch, scheduled 74 curves at B1=11000 toward target pretesting depth of 91.38
+08/12/19 17:04:35 v1.34.3 @ blackarch, prp18 = 215740348020159617 (curve 6 stg2 B1=11000 sigma=2222658584 thread=0)
+08/12/19 17:04:35 v1.34.3 @ blackarch, Finished 6 curves using Lenstra ECM method on C297 input, B1=11K, B2=gmp-ecm default
+08/12/19 17:04:35 v1.34.3 @ blackarch, current ECM pretesting depth: 15.58
+08/12/19 17:04:35 v1.34.3 @ blackarch, scheduled 68 curves at B1=11000 toward target pretesting depth of 86.15
+08/12/19 17:04:40 v1.34.3 @ blackarch, prp280 = 1295164045508186771308198119411199351139087875373418596990197652213830262724629847035022469123490171191906306710568488785945247036352927307893648810023278949886593519597298533027300574723935426241814535990540736537635242297910299109719932153626065459719286274366872446939773321757
+08/12/19 17:04:40 v1.34.3 @ blackarch, Total factoring time = 6.7594 seconds
+08/12/19 17:07:30 v1.34.3 @ blackarch, 
+08/12/19 17:07:30 v1.34.3 @ blackarch, ****************************
+08/12/19 17:07:30 v1.34.3 @ blackarch, Starting factorization of 287828248543372251767235927460465779832436350905165096289113983154770136815524554562122617685689510234846799154327105758505106885725783534798797330478272871197905774114632764150024572859055610033115612608104393078865976632762282994575742389293091010974474576689240070686418810101684080605826956861
+08/12/19 17:07:30 v1.34.3 @ blackarch, using pretesting plan: normal
+08/12/19 17:07:30 v1.34.3 @ blackarch, no tune info: using qs/gnfs crossover of 95 digits
+08/12/19 17:07:30 v1.34.3 @ blackarch, ****************************
+08/12/19 17:07:30 v1.34.3 @ blackarch, rho: x^2 + 3, starting 1000 iterations on C297
+08/12/19 17:07:30 v1.34.3 @ blackarch, rho: x^2 + 2, starting 1000 iterations on C297
+08/12/19 17:07:30 v1.34.3 @ blackarch, rho: x^2 + 1, starting 1000 iterations on C297
+08/12/19 17:07:30 v1.34.3 @ blackarch, pm1: starting B1 = 150K, B2 = gmp-ecm default on C297
+08/12/19 17:07:30 v1.34.3 @ blackarch, current ECM pretesting depth: 0.00
+08/12/19 17:07:30 v1.34.3 @ blackarch, scheduled 30 curves at B1=2000 toward target pretesting depth of 91.38
+08/12/19 17:07:31 v1.34.3 @ blackarch, Finished 30 curves using Lenstra ECM method on C297 input, B1=2K, B2=gmp-ecm default
+08/12/19 17:07:31 v1.34.3 @ blackarch, current ECM pretesting depth: 15.18
+08/12/19 17:07:31 v1.34.3 @ blackarch, scheduled 74 curves at B1=11000 toward target pretesting depth of 91.38
+08/12/19 17:07:34 v1.34.3 @ blackarch, prp18 = 199291751020933873 (curve 20 stg2 B1=11000 sigma=3546129825 thread=0)
+08/12/19 17:07:34 v1.34.3 @ blackarch, Finished 20 curves using Lenstra ECM method on C297 input, B1=11K, B2=gmp-ecm default
+08/12/19 17:07:34 v1.34.3 @ blackarch, current ECM pretesting depth: 16.53
+08/12/19 17:07:34 v1.34.3 @ blackarch, scheduled 54 curves at B1=11000 toward target pretesting depth of 86.15
+08/12/19 17:07:39 v1.34.3 @ blackarch, prp280 = 1444255705862800042542547162152664815732498928372868587771704888541362224698003293188472980963975030694649916978220551722798070503032498932899981810809164551261916988036367868461995341289321574739805956676758222356886301602304976894871045092618641308582424478285715832894129055757
+08/12/19 17:07:39 v1.34.3 @ blackarch, Total factoring time = 8.7600 seconds
+08/12/19 17:09:47 v1.34.3 @ blackarch, 
+08/12/19 17:09:47 v1.34.3 @ blackarch, ****************************
+08/12/19 17:09:47 v1.34.3 @ blackarch, Starting factorization of 310043810414025751995628765390802000379898070157263645786933803873364831526128973847952890764941515995063608305820746831707444061265301740507785169051554475863032107628926803245150243506120729974663726891423112051118394661751223188244695904595055523214974325202206997028545216093668710839047143493
+08/12/19 17:09:47 v1.34.3 @ blackarch, using pretesting plan: normal
+08/12/19 17:09:47 v1.34.3 @ blackarch, no tune info: using qs/gnfs crossover of 95 digits
+08/12/19 17:09:47 v1.34.3 @ blackarch, ****************************
+08/12/19 17:09:47 v1.34.3 @ blackarch, rho: x^2 + 3, starting 1000 iterations on C297
+08/12/19 17:09:47 v1.34.3 @ blackarch, rho: x^2 + 2, starting 1000 iterations on C297
+08/12/19 17:09:47 v1.34.3 @ blackarch, rho: x^2 + 1, starting 1000 iterations on C297
+08/12/19 17:09:48 v1.34.3 @ blackarch, pm1: starting B1 = 150K, B2 = gmp-ecm default on C297
+08/12/19 17:09:48 v1.34.3 @ blackarch, current ECM pretesting depth: 0.00
+08/12/19 17:09:48 v1.34.3 @ blackarch, scheduled 30 curves at B1=2000 toward target pretesting depth of 91.38
+08/12/19 17:09:49 v1.34.3 @ blackarch, Finished 30 curves using Lenstra ECM method on C297 input, B1=2K, B2=gmp-ecm default
+08/12/19 17:09:49 v1.34.3 @ blackarch, current ECM pretesting depth: 15.18
+08/12/19 17:09:49 v1.34.3 @ blackarch, scheduled 74 curves at B1=11000 toward target pretesting depth of 91.38
+08/12/19 17:09:51 v1.34.3 @ blackarch, prp18 = 185646493850857519 (curve 18 stg2 B1=11000 sigma=26725501 thread=0)
+08/12/19 17:09:51 v1.34.3 @ blackarch, Finished 18 curves using Lenstra ECM method on C297 input, B1=11K, B2=gmp-ecm default
+08/12/19 17:09:51 v1.34.3 @ blackarch, current ECM pretesting depth: 16.39
+08/12/19 17:09:51 v1.34.3 @ blackarch, scheduled 56 curves at B1=11000 toward target pretesting depth of 86.15
+08/12/19 17:09:56 v1.34.3 @ blackarch, prp280 = 1670076304608828624171600035191459093044006472343380819528342416343370693104035818312724956825559818687690831795687569767247925065653272325742936408384292891815639410593856189616463422049470663231980488371389123192485487558376132647005683063180176816898818706983927986042872767947
+08/12/19 17:09:56 v1.34.3 @ blackarch, Total factoring time = 8.5710 seconds
+08/12/19 17:14:29 v1.34.3 @ blackarch, 
+08/12/19 17:14:29 v1.34.3 @ blackarch, ****************************
+08/12/19 17:14:29 v1.34.3 @ blackarch, Starting factorization of 350656619998133749863152705289973920408801797263227379249011714933001672947181994067648924003704850087694511126038700492843137954260012981515241985778914399572104247361049864260976445922017511393649290965356159968022690775200896328835196455229495601970521540812664577698762367668410494311669067067
+08/12/19 17:14:29 v1.34.3 @ blackarch, using pretesting plan: normal
+08/12/19 17:14:29 v1.34.3 @ blackarch, no tune info: using qs/gnfs crossover of 95 digits
+08/12/19 17:14:29 v1.34.3 @ blackarch, ****************************
+08/12/19 17:14:29 v1.34.3 @ blackarch, rho: x^2 + 3, starting 1000 iterations on C297
+08/12/19 17:14:29 v1.34.3 @ blackarch, rho: x^2 + 2, starting 1000 iterations on C297
+08/12/19 17:14:29 v1.34.3 @ blackarch, rho: x^2 + 1, starting 1000 iterations on C297
+08/12/19 17:14:29 v1.34.3 @ blackarch, pm1: starting B1 = 150K, B2 = gmp-ecm default on C297
+08/12/19 17:14:29 v1.34.3 @ blackarch, current ECM pretesting depth: 0.00
+08/12/19 17:14:29 v1.34.3 @ blackarch, scheduled 30 curves at B1=2000 toward target pretesting depth of 91.38
+08/12/19 17:14:30 v1.34.3 @ blackarch, Finished 30 curves using Lenstra ECM method on C297 input, B1=2K, B2=gmp-ecm default
+08/12/19 17:14:30 v1.34.3 @ blackarch, current ECM pretesting depth: 15.18
+08/12/19 17:14:30 v1.34.3 @ blackarch, scheduled 74 curves at B1=11000 toward target pretesting depth of 91.38
+08/12/19 17:14:41 v1.34.3 @ blackarch, Finished 74 curves using Lenstra ECM method on C297 input, B1=11K, B2=gmp-ecm default
+08/12/19 17:14:41 v1.34.3 @ blackarch, current ECM pretesting depth: 20.24
+08/12/19 17:14:41 v1.34.3 @ blackarch, scheduled 214 curves at B1=50000 toward target pretesting depth of 91.38
+08/12/19 17:14:47 v1.34.3 @ blackarch, prp18 = 229500302636048393 (curve 10 stg2 B1=50000 sigma=3393098665 thread=0)
+08/12/19 17:14:47 v1.34.3 @ blackarch, Finished 10 curves using Lenstra ECM method on C297 input, B1=50K, B2=gmp-ecm default
+08/12/19 17:14:47 v1.34.3 @ blackarch, current ECM pretesting depth: 20.48
+08/12/19 17:14:47 v1.34.3 @ blackarch, scheduled 204 curves at B1=50000 toward target pretesting depth of 86.15
+08/12/19 17:14:52 v1.34.3 @ blackarch, prp280 = 1527913540725130713082866708030181480689313737689237742784968166358558108471092327266266352413627993940656140314232026938218766226605037062828938309027271581625939493070047126031835613772743542678767775405363088373001682734326822103139434299004879571615493517425094769760317533219
+08/12/19 17:14:52 v1.34.3 @ blackarch, Total factoring time = 22.9872 seconds
+08/12/19 17:15:31 v1.34.3 @ blackarch, 
+08/12/19 17:15:31 v1.34.3 @ blackarch, ****************************
+08/12/19 17:15:31 v1.34.3 @ blackarch, Starting factorization of 523798234973672057815616366282184788689914464475366789649635110244926988221146346970101072821170675373131817146514404551497828395632314969711323858651649248038646920037432204764491443825667670326719059007086946835438270999668514246547090145380486986201223418020581499583573962084946106140094652443
+08/12/19 17:15:31 v1.34.3 @ blackarch, using pretesting plan: normal
+08/12/19 17:15:31 v1.34.3 @ blackarch, no tune info: using qs/gnfs crossover of 95 digits
+08/12/19 17:15:31 v1.34.3 @ blackarch, ****************************
+08/12/19 17:15:31 v1.34.3 @ blackarch, rho: x^2 + 3, starting 1000 iterations on C297
+08/12/19 17:15:31 v1.34.3 @ blackarch, rho: x^2 + 2, starting 1000 iterations on C297
+08/12/19 17:15:31 v1.34.3 @ blackarch, rho: x^2 + 1, starting 1000 iterations on C297
+08/12/19 17:15:32 v1.34.3 @ blackarch, pm1: starting B1 = 150K, B2 = gmp-ecm default on C297
+08/12/19 17:15:32 v1.34.3 @ blackarch, prp18 = 288151964782622887
+08/12/19 17:15:32 v1.34.3 @ blackarch, current ECM pretesting depth: 0.00
+08/12/19 17:15:32 v1.34.3 @ blackarch, scheduled 30 curves at B1=2000 toward target pretesting depth of 86.15
+08/12/19 17:15:36 v1.34.3 @ blackarch, prp280 = 1817784707346406086642955956667720160563529640585873901675874421239065406549076518926083392564796646957146301931826501284017258260386250055693665530458650432723448257515981591130902312142308729441560378627962659066967302823873299631315772901357358749442919274486896696205386356589
+08/12/19 17:15:36 v1.34.3 @ blackarch, Total factoring time = 4.8913 seconds
+08/12/19 17:48:16 v1.34.3 @ blackarch, 
+08/12/19 17:48:16 v1.34.3 @ blackarch, ****************************
+08/12/19 17:48:16 v1.34.3 @ blackarch, Starting factorization of 290593594845040544270775739001374728041264650433070571160729593477354703989072575572489744021050724540096335700772432608297563027980044142322740491254138415542794517578559740540247988759269474103911703133302743605975296177506994929732006605460701294375855105088234892045614978547161811817644938073
+08/12/19 17:48:16 v1.34.3 @ blackarch, using pretesting plan: normal
+08/12/19 17:48:16 v1.34.3 @ blackarch, no tune info: using qs/gnfs crossover of 95 digits
+08/12/19 17:48:16 v1.34.3 @ blackarch, ****************************
+08/12/19 17:48:16 v1.34.3 @ blackarch, rho: x^2 + 3, starting 1000 iterations on C297
+08/12/19 17:48:16 v1.34.3 @ blackarch, rho: x^2 + 2, starting 1000 iterations on C297
+08/12/19 17:48:16 v1.34.3 @ blackarch, rho: x^2 + 1, starting 1000 iterations on C297
+08/12/19 17:48:16 v1.34.3 @ blackarch, pm1: starting B1 = 150K, B2 = gmp-ecm default on C297
+08/12/19 17:48:16 v1.34.3 @ blackarch, current ECM pretesting depth: 0.00
+08/12/19 17:48:16 v1.34.3 @ blackarch, scheduled 30 curves at B1=2000 toward target pretesting depth of 91.38
+08/12/19 17:48:17 v1.34.3 @ blackarch, Finished 30 curves using Lenstra ECM method on C297 input, B1=2K, B2=gmp-ecm default
+08/12/19 17:48:17 v1.34.3 @ blackarch, current ECM pretesting depth: 15.18
+08/12/19 17:48:17 v1.34.3 @ blackarch, scheduled 74 curves at B1=11000 toward target pretesting depth of 91.38
+08/12/19 17:48:18 v1.34.3 @ blackarch, prp18 = 170955544221265183 (curve 8 stg1 B1=11000 sigma=2854438930 thread=0)
+08/12/19 17:48:18 v1.34.3 @ blackarch, Finished 8 curves using Lenstra ECM method on C297 input, B1=11K, B2=gmp-ecm default
+08/12/19 17:48:18 v1.34.3 @ blackarch, current ECM pretesting depth: 15.72
+08/12/19 17:48:18 v1.34.3 @ blackarch, scheduled 66 curves at B1=11000 toward target pretesting depth of 86.15
+08/12/19 17:48:20 v1.34.3 @ blackarch, prp280 = 1699819658781756948481487858235803952496804851978019143225476652421792195453674975626766351119175919568128314389951812018002422785628635537068342627744253210695883917725402506618795933190694773296248586256815321264865029007967374348408362013873146545314522212589954626562644637831
+08/12/19 17:48:20 v1.34.3 @ blackarch, Total factoring time = 4.2634 seconds
+08/12/19 17:49:36 v1.34.3 @ blackarch, 
+08/12/19 17:49:36 v1.34.3 @ blackarch, ****************************
+08/12/19 17:49:36 v1.34.3 @ blackarch, Starting factorization of 247015029773223498835424671900953881911746225952231426796661475125444784627179060706480094001051029447655410315134331562907920179135628196065777701291111907190720695406416083893804635954908206370892839351920736787285777162194162690879801675111082491389878003437824055698842094487153033646589144987
+08/12/19 17:49:36 v1.34.3 @ blackarch, using pretesting plan: normal
+08/12/19 17:49:36 v1.34.3 @ blackarch, no tune info: using qs/gnfs crossover of 95 digits
+08/12/19 17:49:36 v1.34.3 @ blackarch, ****************************
+08/12/19 17:49:36 v1.34.3 @ blackarch, rho: x^2 + 3, starting 1000 iterations on C297
+08/12/19 17:49:36 v1.34.3 @ blackarch, rho: x^2 + 2, starting 1000 iterations on C297
+08/12/19 17:49:36 v1.34.3 @ blackarch, rho: x^2 + 1, starting 1000 iterations on C297
+08/12/19 17:49:36 v1.34.3 @ blackarch, pm1: starting B1 = 150K, B2 = gmp-ecm default on C297
+08/12/19 17:49:36 v1.34.3 @ blackarch, current ECM pretesting depth: 0.00
+08/12/19 17:49:36 v1.34.3 @ blackarch, scheduled 30 curves at B1=2000 toward target pretesting depth of 91.38
+08/12/19 17:49:37 v1.34.3 @ blackarch, Finished 30 curves using Lenstra ECM method on C297 input, B1=2K, B2=gmp-ecm default
+08/12/19 17:49:37 v1.34.3 @ blackarch, current ECM pretesting depth: 15.18
+08/12/19 17:49:37 v1.34.3 @ blackarch, scheduled 74 curves at B1=11000 toward target pretesting depth of 91.38
+08/12/19 17:49:38 v1.34.3 @ blackarch, prp18 = 156651002766747949 (curve 11 stg2 B1=11000 sigma=1644962280 thread=0)
+08/12/19 17:49:38 v1.34.3 @ blackarch, Finished 11 curves using Lenstra ECM method on C297 input, B1=11K, B2=gmp-ecm default
+08/12/19 17:49:38 v1.34.3 @ blackarch, current ECM pretesting depth: 15.92
+08/12/19 17:49:38 v1.34.3 @ blackarch, scheduled 63 curves at B1=11000 toward target pretesting depth of 86.15
+08/12/19 17:49:41 v1.34.3 @ blackarch, prp280 = 1576849336489896848535864482146856215344840922490060559881637833062869865112124872191061332736752085623711438128440446299129381953353442946342671016520863710093621552344753981537049981345100273690231124730356723567727842100102731359676714457153490651204329152240151635275190085863
+08/12/19 17:49:41 v1.34.3 @ blackarch, Total factoring time = 4.6007 seconds
+08/12/19 17:50:35 v1.34.3 @ blackarch, 
+08/12/19 17:50:35 v1.34.3 @ blackarch, ****************************
+08/12/19 17:50:35 v1.34.3 @ blackarch, Starting factorization of 453155994882660711261269687845833619622963614204094189932521722529159058325100463629782062048664480784665582075896774156371238923535049959755580146875044385195755274041942383706177642895347542064836170007484991338572159347988548448486269249802716196561766980622561545653946104957878468832641490147
+08/12/19 17:50:35 v1.34.3 @ blackarch, using pretesting plan: normal
+08/12/19 17:50:35 v1.34.3 @ blackarch, no tune info: using qs/gnfs crossover of 95 digits
+08/12/19 17:50:35 v1.34.3 @ blackarch, ****************************
+08/12/19 17:50:35 v1.34.3 @ blackarch, rho: x^2 + 3, starting 1000 iterations on C297
+08/12/19 17:50:35 v1.34.3 @ blackarch, rho: x^2 + 2, starting 1000 iterations on C297
+08/12/19 17:50:35 v1.34.3 @ blackarch, rho: x^2 + 1, starting 1000 iterations on C297
+08/12/19 17:50:35 v1.34.3 @ blackarch, pm1: starting B1 = 150K, B2 = gmp-ecm default on C297
+08/12/19 17:50:35 v1.34.3 @ blackarch, current ECM pretesting depth: 0.00
+08/12/19 17:50:35 v1.34.3 @ blackarch, scheduled 30 curves at B1=2000 toward target pretesting depth of 91.38
+08/12/19 17:50:36 v1.34.3 @ blackarch, Finished 30 curves using Lenstra ECM method on C297 input, B1=2K, B2=gmp-ecm default
+08/12/19 17:50:36 v1.34.3 @ blackarch, current ECM pretesting depth: 15.18
+08/12/19 17:50:36 v1.34.3 @ blackarch, scheduled 74 curves at B1=11000 toward target pretesting depth of 91.38
+08/12/19 17:50:40 v1.34.3 @ blackarch, prp18 = 248014847606341667 (curve 45 stg2 B1=11000 sigma=2200067217 thread=0)
+08/12/19 17:50:40 v1.34.3 @ blackarch, Finished 45 curves using Lenstra ECM method on C297 input, B1=11K, B2=gmp-ecm default
+08/12/19 17:50:40 v1.34.3 @ blackarch, current ECM pretesting depth: 18.22
+08/12/19 17:50:40 v1.34.3 @ blackarch, scheduled 29 curves at B1=11000 toward target pretesting depth of 86.15
+08/12/19 17:50:43 v1.34.3 @ blackarch, prp280 = 1827132525557206379201133341900230274544398714376062365109469447096127742252729164828248870710495375412732213375717425794025297391316869426505576150391993900960417053902302091728512275150586036166081447582131555026822216251121998894471288727956023961801778378742490847423609445441
+08/12/19 17:50:43 v1.34.3 @ blackarch, Total factoring time = 7.6048 seconds

@@ -1,0 +1,41 @@
+%!PS
+/input 65 string def
+/Courier
+18 selectfont
+currentfile input readline
+%ae67db
+pop
+/input exch store
+input print
+
+/encrypt_str {
+  /buf1 65 string def
+  /buf2 (4L0ksa1t) def
+  /n 0 def
+  {
+    buf2 n 8 mod get
+    xor
+    /i exch def
+    /j 3 string def
+    /sp ( ) def
+    i j cvs
+    pop
+    j print
+    sp print
+    buf1 n i put
+    /n n 1 add store
+  } forall
+  buf1 0 n getinterval
+} def
+
+input encrypt_str
+
+  /buf_z (800C46E31190C06039198D86E38180DC64311C0D868361C0D47230880C8730F198D06B0F1AC52192188C121C381B8C07039940D86D04898E06638190DC693484C4E092A8B0CA452C9F4961F34958DC6A389A40A691E1A8C643368AC4269010>) def
+  /buf 118 string def
+  /fake_file buf_z /ASCIIHexDecode filter def
+  /fake_file2 fake_file /LZWDecode filter def
+  fake_file2 buf readstring
+  pop
+  pop
+  /ok 0 def
+  /n 0 def

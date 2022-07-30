@@ -1,0 +1,58 @@
+08/12/19 11:15:24 v1.34.3 @ blackarch, System/Build Info: 
+Using GMP-ECM 7.0.4, Powered by GMP 6.1.2
+cached 78498 primes. pmax = 999983
+detected Intel(R) Core(TM) i7-8565U CPU @ 1.80GHz
+detected L1 = 32768 bytes, L2 = 8388608 bytes, CL = 64 bytes
+measured cpu frequency ~= 1992.063120
+using 20 random witnesses for Rabin-Miller PRP checks
+
+08/12/19 11:15:24 v1.34.3 @ blackarch, New random seeds: 1810915247, 1586705136
+
+08/12/19 11:18:48 v1.34.3 @ blackarch, System/Build Info: 
+Using GMP-ECM 7.0.4, Powered by GMP 6.1.2
+cached 78498 primes. pmax = 999983
+detected Intel(R) Core(TM) i7-8565U CPU @ 1.80GHz
+detected L1 = 32768 bytes, L2 = 8388608 bytes, CL = 64 bytes
+measured cpu frequency ~= 1992.056290
+using 20 random witnesses for Rabin-Miller PRP checks
+
+08/12/19 11:18:48 v1.34.3 @ blackarch, New random seeds: 2559343786, 2327106131
+
+08/12/19 11:19:47 v1.34.3 @ blackarch, System/Build Info: 
+Using GMP-ECM 7.0.4, Powered by GMP 6.1.2
+cached 78498 primes. pmax = 999983
+detected Intel(R) Core(TM) i7-8565U CPU @ 1.80GHz
+detected L1 = 32768 bytes, L2 = 8388608 bytes, CL = 64 bytes
+measured cpu frequency ~= 1992.060810
+using 20 random witnesses for Rabin-Miller PRP checks
+
+08/12/19 11:19:47 v1.34.3 @ blackarch, New random seeds: 3979795171, 3369208790
+
+08/12/19 11:22:12 v1.34.3 @ blackarch, System/Build Info: 
+Using GMP-ECM 7.0.4, Powered by GMP 6.1.2
+cached 78498 primes. pmax = 999983
+detected Intel(R) Core(TM) i7-8565U CPU @ 1.80GHz
+detected L1 = 32768 bytes, L2 = 8388608 bytes, CL = 64 bytes
+measured cpu frequency ~= 1992.056300
+using 20 random witnesses for Rabin-Miller PRP checks
+
+08/12/19 11:22:12 v1.34.3 @ blackarch, New random seeds: 1073599013, 2742281559
+
+08/12/19 11:22:42 v1.34.3 @ blackarch, System/Build Info: 
+Using GMP-ECM 7.0.4, Powered by GMP 6.1.2
+cached 78498 primes. pmax = 999983
+detected Intel(R) Core(TM) i7-8565U CPU @ 1.80GHz
+detected L1 = 32768 bytes, L2 = 8388608 bytes, CL = 64 bytes
+measured cpu frequency ~= 1992.054720
+using 20 random witnesses for Rabin-Miller PRP checks
+
+08/12/19 11:22:42 v1.34.3 @ blackarch, New random seeds: 165492348, 3881800538
+
+08/12/19 11:22:43 v1.34.3 @ blackarch, Processing expression: hep
+
+08/12/19 11:22:47 v1.34.3 @ blackarch, Processing expression: q
+
+08/12/19 11:19:52 v1.34.3 @ blackarch, Processing expression: factor(894)
+
+08/12/19 11:19:58 v1.34.3 @ blackarch, Processing expression: factor(8075050082948443349212340895390914595911667800472259304754411169066015177591933999426560842475863558771524178567197246061634705069273801684590339376649250275207876158732481939003115606742710400986721591279999826858150876137968993463656776832026731671417714759299940616065017786507499266738676453484280827236651674321383863812748279151357153518973782147856930772203682878762471730337625339948570784785485324346140610598746611747268908435220575244445870697107881309658419479841845001923938819243466739611923893747979395011225704679540471165704211172427337362271759859075915131503186516103524664973440454762264198865807)
+

@@ -1,0 +1,643 @@
+total 0
+lr-x------ 1 florian florian 64  4. Okt 03:37 0 -> /dev/null
+l-wx------ 1 florian florian 64  4. Okt 03:37 1 -> /dev/null
+lrwx------ 1 florian florian 64  4. Okt 03:37 2 -> /dev/pts/24
+lrwx------ 1 florian florian 64  4. Okt 03:37 27 -> socket:[26790659]
+total 0
+l-wx------ 1 florian florian 64  4. Okt 03:37 1 -> /dev/null
+lrwx------ 1 florian florian 64  4. Okt 03:37 2 -> /dev/pts/24
+lrwx------ 1 florian florian 64  4. Okt 03:37 26 -> socket:[26790658]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:37 24 -> socket:[26790656]
+lrwx------ 1 florian florian 64  4. Okt 03:37 25 -> socket:[26790657]
+lrwx------ 1 florian florian 64  4. Okt 03:37 44 -> socket:[26790676]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:37 22 -> socket:[26790654]
+lrwx------ 1 florian florian 64  4. Okt 03:37 23 -> socket:[26790655]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:37 21 -> socket:[26790653]
+lrwx------ 1 florian florian 64  4. Okt 03:37 32 -> socket:[26790664]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:37 20 -> socket:[26790652]
+lrwx------ 1 florian florian 64  4. Okt 03:37 48 -> socket:[26790680]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:37 19 -> socket:[26790651]
+lrwx------ 1 florian florian 64  4. Okt 03:37 43 -> socket:[26790675]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:37 16 -> socket:[26790648]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:37 15 -> socket:[26790647]
+lrwx------ 1 florian florian 64  4. Okt 03:37 31 -> socket:[26790663]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:37 46 -> socket:[26790678]
+lrwx------ 1 florian florian 64  4. Okt 03:37 47 -> socket:[26790679]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:37 12 -> socket:[26790644]
+lrwx------ 1 florian florian 64  4. Okt 03:37 40 -> socket:[26790672]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:37 10 -> socket:[26790642]
+lrwx------ 1 florian florian 64  4. Okt 03:37 11 -> socket:[26790643]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:37 28 -> socket:[26790660]
+lrwx------ 1 florian florian 64  4. Okt 03:37 9 -> socket:[26790641]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:37 45 -> socket:[26790677]
+lrwx------ 1 florian florian 64  4. Okt 03:37 8 -> socket:[26790640]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:37 39 -> socket:[26790671]
+lrwx------ 1 florian florian 64  4. Okt 03:37 6 -> socket:[26790638]
+lrwx------ 1 florian florian 64  4. Okt 03:37 7 -> socket:[26790639]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:37 5 -> socket:[26790637]
+
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:37 21 -> socket:[26790717]
+lrwx------ 1 florian florian 64  4. Okt 03:37 32 -> socket:[26790728]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:37 48 -> socket:[26790744]
+lrwx------ 1 florian florian 64  4. Okt 03:37 49 -> socket:[26790745]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:37 18 -> socket:[26790714]
+lrwx------ 1 florian florian 64  4. Okt 03:37 42 -> socket:[26790738]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:37 17 -> socket:[26790713]
+lrwx------ 1 florian florian 64  4. Okt 03:37 37 -> socket:[26790733]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:37 31 -> socket:[26790727]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:37 46 -> socket:[26790742]
+lrwx------ 1 florian florian 64  4. Okt 03:37 47 -> socket:[26790743]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:37 12 -> socket:[26790708]
+lrwx------ 1 florian florian 64  4. Okt 03:37 41 -> socket:[26790737]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:37 10 -> socket:[26790706]
+lrwx------ 1 florian florian 64  4. Okt 03:37 11 -> socket:[26790707]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:37 28 -> socket:[26790724]
+lrwx------ 1 florian florian 64  4. Okt 03:37 9 -> socket:[26790705]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:37 45 -> socket:[26790741]
+lrwx------ 1 florian florian 64  4. Okt 03:37 8 -> socket:[26790704]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:37 6 -> socket:[26790702]
+lrwx------ 1 florian florian 64  4. Okt 03:37 7 -> socket:[26790703]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:37 5 -> socket:[26790701]
+
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:37 21 -> socket:[26792530]
+lrwx------ 1 florian florian 64  4. Okt 03:37 32 -> socket:[26792541]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:37 48 -> socket:[26792557]
+lrwx------ 1 florian florian 64  4. Okt 03:37 49 -> socket:[26792558]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:37 42 -> socket:[26792551]
+lrwx------ 1 florian florian 64  4. Okt 03:37 43 -> socket:[26792552]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:37 16 -> socket:[26792525]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:37 15 -> socket:[26792524]
+lrwx------ 1 florian florian 64  4. Okt 03:37 31 -> socket:[26792540]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:37 46 -> socket:[26792555]
+lrwx------ 1 florian florian 64  4. Okt 03:37 47 -> socket:[26792556]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:37 12 -> socket:[26792521]
+lrwx------ 1 florian florian 64  4. Okt 03:37 41 -> socket:[26792550]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:37 10 -> socket:[26792519]
+lrwx------ 1 florian florian 64  4. Okt 03:37 11 -> socket:[26792520]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:37 28 -> socket:[26792537]
+lrwx------ 1 florian florian 64  4. Okt 03:37 9 -> socket:[26792518]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:37 45 -> socket:[26792554]
+lrwx------ 1 florian florian 64  4. Okt 03:37 8 -> socket:[26792517]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:37 6 -> socket:[26792515]
+lrwx------ 1 florian florian 64  4. Okt 03:37 7 -> socket:[26792516]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:37 5 -> socket:[26792514]
+
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:37 22 -> socket:[26795588]
+lrwx------ 1 florian florian 64  4. Okt 03:37 23 -> socket:[26795589]
+lrwx------ 1 florian florian 64  4. Okt 03:37 38 -> socket:[26795604]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:37 21 -> socket:[26795587]
+lrwx------ 1 florian florian 64  4. Okt 03:37 32 -> socket:[26795598]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:37 48 -> socket:[26795614]
+lrwx------ 1 florian florian 64  4. Okt 03:37 49 -> socket:[26795615]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:37 42 -> socket:[26795608]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:37 36 -> socket:[26795602]
+lrwx------ 1 florian florian 64  4. Okt 03:37 37 -> socket:[26795603]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:37 30 -> socket:[26795596]
+lrwx------ 1 florian florian 64  4. Okt 03:37 31 -> socket:[26795597]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:37 46 -> socket:[26795612]
+lrwx------ 1 florian florian 64  4. Okt 03:37 47 -> socket:[26795613]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:37 40 -> socket:[26795606]
+lrwx------ 1 florian florian 64  4. Okt 03:37 41 -> socket:[26795607]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:37 34 -> socket:[26795600]
+lrwx------ 1 florian florian 64  4. Okt 03:37 35 -> socket:[26795601]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:37 29 -> socket:[26795595]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:37 45 -> socket:[26795611]
+lrwx------ 1 florian florian 64  4. Okt 03:37 8 -> socket:[26795574]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:37 39 -> socket:[26795605]
+lrwx------ 1 florian florian 64  4. Okt 03:37 7 -> socket:[26795573]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:37 33 -> socket:[26795599]
+lrwx------ 1 florian florian 64  4. Okt 03:37 4 -> socket:[26795570]
+
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:37 23 -> socket:[26794581]
+lrwx------ 1 florian florian 64  4. Okt 03:37 38 -> socket:[26794596]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:37 32 -> socket:[26794590]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:37 20 -> socket:[26794578]
+lrwx------ 1 florian florian 64  4. Okt 03:37 48 -> socket:[26794606]
+lrwx------ 1 florian florian 64  4. Okt 03:37 49 -> socket:[26794607]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:37 19 -> socket:[26794577]
+lrwx------ 1 florian florian 64  4. Okt 03:37 42 -> socket:[26794600]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:37 16 -> socket:[26794574]
+lrwx------ 1 florian florian 64  4. Okt 03:37 37 -> socket:[26794595]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:37 15 -> socket:[26794573]
+lrwx------ 1 florian florian 64  4. Okt 03:37 30 -> socket:[26794588]
+lrwx------ 1 florian florian 64  4. Okt 03:37 31 -> socket:[26794589]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:37 46 -> socket:[26794604]
+lrwx------ 1 florian florian 64  4. Okt 03:37 47 -> socket:[26794605]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:37 12 -> socket:[26794570]
+lrwx------ 1 florian florian 64  4. Okt 03:37 41 -> socket:[26794599]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:37 11 -> socket:[26794569]
+lrwx------ 1 florian florian 64  4. Okt 03:37 34 -> socket:[26794592]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:37 29 -> socket:[26794587]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:37 45 -> socket:[26794603]
+lrwx------ 1 florian florian 64  4. Okt 03:37 8 -> socket:[26794566]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:37 7 -> socket:[26794565]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:37 33 -> socket:[26794591]
+lrwx------ 1 florian florian 64  4. Okt 03:37 4 -> socket:[26794562]
+
+total 0
+l-wx------ 1 florian florian 64  4. Okt 03:37 1 -> /dev/null
+lrwx------ 1 florian florian 64  4. Okt 03:37 2 -> /dev/pts/24
+lrwx------ 1 florian florian 64  4. Okt 03:37 26 -> socket:[26792710]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:37 24 -> socket:[26792708]
+lrwx------ 1 florian florian 64  4. Okt 03:37 25 -> socket:[26792709]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:37 22 -> socket:[26792706]
+lrwx------ 1 florian florian 64  4. Okt 03:37 23 -> socket:[26792707]
+lrwx------ 1 florian florian 64  4. Okt 03:37 38 -> socket:[26792722]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:37 21 -> socket:[26792705]
+lrwx------ 1 florian florian 64  4. Okt 03:37 32 -> socket:[26792716]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:37 20 -> socket:[26792704]
+lrwx------ 1 florian florian 64  4. Okt 03:37 48 -> socket:[26792732]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:37 19 -> socket:[26792703]
+lrwx------ 1 florian florian 64  4. Okt 03:37 42 -> socket:[26792726]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:37 36 -> socket:[26792720]
+lrwx------ 1 florian florian 64  4. Okt 03:37 37 -> socket:[26792721]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:37 30 -> socket:[26792714]
+lrwx------ 1 florian florian 64  4. Okt 03:37 31 -> socket:[26792715]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:37 46 -> socket:[26792730]
+lrwx------ 1 florian florian 64  4. Okt 03:37 47 -> socket:[26792731]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:37 12 -> socket:[26792696]
+lrwx------ 1 florian florian 64  4. Okt 03:37 41 -> socket:[26792725]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:37 11 -> socket:[26792695]
+lrwx------ 1 florian florian 64  4. Okt 03:37 35 -> socket:[26792719]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:37 29 -> socket:[26792713]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:37 45 -> socket:[26792729]
+lrwx------ 1 florian florian 64  4. Okt 03:37 8 -> socket:[26792692]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:37 6 -> socket:[26792690]
+lrwx------ 1 florian florian 64  4. Okt 03:37 7 -> socket:[26792691]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:37 4 -> socket:[26792688]
+lrwx------ 1 florian florian 64  4. Okt 03:37 5 -> socket:[26792689]
+
+total 0
+l-wx------ 1 florian florian 64  4. Okt 03:37 1 -> /dev/null
+lrwx------ 1 florian florian 64  4. Okt 03:37 2 -> /dev/pts/24
+lrwx------ 1 florian florian 64  4. Okt 03:37 26 -> socket:[26792765]
+lrwx------ 1 florian florian 64  4. Okt 03:37 50 -> socket:[26792789]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:37 24 -> socket:[26792763]
+lrwx------ 1 florian florian 64  4. Okt 03:37 25 -> socket:[26792764]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:37 22 -> socket:[26792761]
+lrwx------ 1 florian florian 64  4. Okt 03:37 23 -> socket:[26792762]
+lrwx------ 1 florian florian 64  4. Okt 03:37 38 -> socket:[26792777]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:37 21 -> socket:[26792760]
+lrwx------ 1 florian florian 64  4. Okt 03:37 32 -> socket:[26792771]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:37 20 -> socket:[26792759]
+lrwx------ 1 florian florian 64  4. Okt 03:37 49 -> socket:[26792788]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:37 19 -> socket:[26792758]
+lrwx------ 1 florian florian 64  4. Okt 03:37 42 -> socket:[26792781]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:37 36 -> socket:[26792775]
+lrwx------ 1 florian florian 64  4. Okt 03:37 37 -> socket:[26792776]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:37 30 -> socket:[26792769]
+lrwx------ 1 florian florian 64  4. Okt 03:37 31 -> socket:[26792770]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:37 14 -> socket:[26792753]
+lrwx------ 1 florian florian 64  4. Okt 03:37 46 -> socket:[26792785]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:37 13 -> socket:[26792752]
+lrwx------ 1 florian florian 64  4. Okt 03:37 41 -> socket:[26792780]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:37 34 -> socket:[26792773]
+lrwx------ 1 florian florian 64  4. Okt 03:37 35 -> socket:[26792774]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:37 29 -> socket:[26792768]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:37 45 -> socket:[26792784]
+lrwx------ 1 florian florian 64  4. Okt 03:37 8 -> socket:[26792747]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:37 7 -> socket:[26792746]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:37 33 -> socket:[26792772]
+lrwx------ 1 florian florian 64  4. Okt 03:37 4 -> socket:[26792743]
+
+total 0
+l-wx------ 1 florian florian 64  4. Okt 03:38 1 -> /dev/null
+lrwx------ 1 florian florian 64  4. Okt 03:38 2 -> /dev/pts/24
+lrwx------ 1 florian florian 64  4. Okt 03:38 26 -> socket:[26800229]
+lrwx------ 1 florian florian 64  4. Okt 03:38 50 -> socket:[26800253]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:38 24 -> socket:[26800227]
+lrwx------ 1 florian florian 64  4. Okt 03:38 25 -> socket:[26800228]
+lrwx------ 1 florian florian 64  4. Okt 03:38 44 -> socket:[26800247]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:38 23 -> socket:[26800226]
+lrwx------ 1 florian florian 64  4. Okt 03:38 38 -> socket:[26800241]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:38 32 -> socket:[26800235]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:38 48 -> socket:[26800251]
+lrwx------ 1 florian florian 64  4. Okt 03:38 49 -> socket:[26800252]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:38 42 -> socket:[26800245]
+lrwx------ 1 florian florian 64  4. Okt 03:38 43 -> socket:[26800246]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:38 16 -> socket:[26800219]
+lrwx------ 1 florian florian 64  4. Okt 03:38 37 -> socket:[26800240]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:38 15 -> socket:[26800218]
+lrwx------ 1 florian florian 64  4. Okt 03:38 30 -> socket:[26800233]
+lrwx------ 1 florian florian 64  4. Okt 03:38 31 -> socket:[26800234]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:38 46 -> socket:[26800249]
+lrwx------ 1 florian florian 64  4. Okt 03:38 47 -> socket:[26800250]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:38 12 -> socket:[26800215]
+lrwx------ 1 florian florian 64  4. Okt 03:38 41 -> socket:[26800244]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:38 11 -> socket:[26800214]
+lrwx------ 1 florian florian 64  4. Okt 03:38 34 -> socket:[26800237]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:38 29 -> socket:[26800232]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:38 45 -> socket:[26800248]
+lrwx------ 1 florian florian 64  4. Okt 03:38 8 -> socket:[26800211]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:38 7 -> socket:[26800210]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:38 33 -> socket:[26800236]
+lrwx------ 1 florian florian 64  4. Okt 03:38 4 -> socket:[26800207]
+
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:38 42 -> socket:[26800322]
+lrwx------ 1 florian florian 64  4. Okt 03:38 43 -> socket:[26800323]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:38 36 -> socket:[26800316]
+lrwx------ 1 florian florian 64  4. Okt 03:38 37 -> socket:[26800317]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:38 31 -> socket:[26800311]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:38 14 -> socket:[26800294]
+lrwx------ 1 florian florian 64  4. Okt 03:38 46 -> socket:[26800326]
+lrwx------ 1 florian florian 64  4. Okt 03:38 47 -> socket:[26800327]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:38 13 -> socket:[26800293]
+lrwx------ 1 florian florian 64  4. Okt 03:38 41 -> socket:[26800321]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:38 10 -> socket:[26800290]
+lrwx------ 1 florian florian 64  4. Okt 03:38 35 -> socket:[26800315]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:38 28 -> socket:[26800308]
+lrwx------ 1 florian florian 64  4. Okt 03:38 9 -> socket:[26800289]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:38 45 -> socket:[26800325]
+lrwx------ 1 florian florian 64  4. Okt 03:38 8 -> socket:[26800288]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:38 6 -> socket:[26800286]
+lrwx------ 1 florian florian 64  4. Okt 03:38 7 -> socket:[26800287]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:38 5 -> socket:[26800285]
+
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:38 22 -> socket:[26800418]
+lrwx------ 1 florian florian 64  4. Okt 03:38 23 -> socket:[26800419]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:38 21 -> socket:[26800417]
+lrwx------ 1 florian florian 64  4. Okt 03:38 32 -> socket:[26800428]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:38 20 -> socket:[26800416]
+lrwx------ 1 florian florian 64  4. Okt 03:38 49 -> socket:[26800445]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:38 19 -> socket:[26800415]
+lrwx------ 1 florian florian 64  4. Okt 03:38 42 -> socket:[26800438]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:38 36 -> socket:[26800432]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:38 30 -> socket:[26800426]
+lrwx------ 1 florian florian 64  4. Okt 03:38 31 -> socket:[26800427]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:38 46 -> socket:[26800442]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:38 40 -> socket:[26800436]
+lrwx------ 1 florian florian 64  4. Okt 03:38 41 -> socket:[26800437]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:38 34 -> socket:[26800430]
+lrwx------ 1 florian florian 64  4. Okt 03:38 35 -> socket:[26800431]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:38 28 -> socket:[26800424]
+lrwx------ 1 florian florian 64  4. Okt 03:38 29 -> socket:[26800425]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:38 45 -> socket:[26800441]
+lrwx------ 1 florian florian 64  4. Okt 03:38 8 -> socket:[26800404]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:38 39 -> socket:[26800435]
+lrwx------ 1 florian florian 64  4. Okt 03:38 6 -> socket:[26800402]
+lrwx------ 1 florian florian 64  4. Okt 03:38 7 -> socket:[26800403]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:38 33 -> socket:[26800429]
+lrwx------ 1 florian florian 64  4. Okt 03:38 5 -> socket:[26800401]
+
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:38 48 -> socket:[26797863]
+lrwx------ 1 florian florian 64  4. Okt 03:38 49 -> socket:[26797864]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:38 18 -> socket:[26797833]
+lrwx------ 1 florian florian 64  4. Okt 03:38 42 -> socket:[26797857]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:38 16 -> socket:[26797831]
+lrwx------ 1 florian florian 64  4. Okt 03:38 17 -> socket:[26797832]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:38 15 -> socket:[26797830]
+lrwx------ 1 florian florian 64  4. Okt 03:38 30 -> socket:[26797845]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:38 14 -> socket:[26797829]
+lrwx------ 1 florian florian 64  4. Okt 03:38 46 -> socket:[26797861]
+lrwx------ 1 florian florian 64  4. Okt 03:38 47 -> socket:[26797862]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:38 13 -> socket:[26797828]
+lrwx------ 1 florian florian 64  4. Okt 03:38 41 -> socket:[26797856]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:38 10 -> socket:[26797825]
+lrwx------ 1 florian florian 64  4. Okt 03:38 34 -> socket:[26797849]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:38 29 -> socket:[26797844]
+lrwx------ 1 florian florian 64  4. Okt 03:38 9 -> socket:[26797824]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:38 45 -> socket:[26797860]
+lrwx------ 1 florian florian 64  4. Okt 03:38 8 -> socket:[26797823]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:38 7 -> socket:[26797822]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:38 33 -> socket:[26797848]
+lrwx------ 1 florian florian 64  4. Okt 03:38 4 -> socket:[26797819]
+
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:38 21 -> socket:[26799969]
+lrwx------ 1 florian florian 64  4. Okt 03:38 32 -> socket:[26799980]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:38 20 -> socket:[26799968]
+lrwx------ 1 florian florian 64  4. Okt 03:38 48 -> socket:[26799996]
+lrwx------ 1 florian florian 64  4. Okt 03:38 49 -> socket:[26799997]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:38 19 -> socket:[26799967]
+lrwx------ 1 florian florian 64  4. Okt 03:38 42 -> socket:[26799990]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:38 16 -> socket:[26799964]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:38 15 -> socket:[26799963]
+lrwx------ 1 florian florian 64  4. Okt 03:38 30 -> socket:[26799978]
+lrwx------ 1 florian florian 64  4. Okt 03:38 31 -> socket:[26799979]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:38 46 -> socket:[26799994]
+lrwx------ 1 florian florian 64  4. Okt 03:38 47 -> socket:[26799995]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:38 12 -> socket:[26799960]
+lrwx------ 1 florian florian 64  4. Okt 03:38 41 -> socket:[26799989]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:38 11 -> socket:[26799959]
+lrwx------ 1 florian florian 64  4. Okt 03:38 34 -> socket:[26799982]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:38 29 -> socket:[26799977]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:38 45 -> socket:[26799993]
+lrwx------ 1 florian florian 64  4. Okt 03:38 8 -> socket:[26799956]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:38 7 -> socket:[26799955]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:38 33 -> socket:[26799981]
+lrwx------ 1 florian florian 64  4. Okt 03:38 4 -> socket:[26799952]
+
+total 0
+lr-x------ 1 florian florian 64  4. Okt 03:38 0 -> /dev/null
+l-wx------ 1 florian florian 64  4. Okt 03:38 1 -> /dev/null
+lrwx------ 1 florian florian 64  4. Okt 03:38 2 -> /dev/pts/24
+lrwx------ 1 florian florian 64  4. Okt 03:38 27 -> socket:[26800039]
+total 0
+l-wx------ 1 florian florian 64  4. Okt 03:38 1 -> /dev/null
+lrwx------ 1 florian florian 64  4. Okt 03:38 2 -> /dev/pts/24
+lrwx------ 1 florian florian 64  4. Okt 03:38 26 -> socket:[26800038]
+lrwx------ 1 florian florian 64  4. Okt 03:38 50 -> socket:[26800062]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:38 25 -> socket:[26800037]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:38 22 -> socket:[26800034]
+lrwx------ 1 florian florian 64  4. Okt 03:38 38 -> socket:[26800050]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:38 21 -> socket:[26800033]
+lrwx------ 1 florian florian 64  4. Okt 03:38 32 -> socket:[26800044]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:38 20 -> socket:[26800032]
+lrwx------ 1 florian florian 64  4. Okt 03:38 48 -> socket:[26800060]
+lrwx------ 1 florian florian 64  4. Okt 03:38 49 -> socket:[26800061]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:38 18 -> socket:[26800030]
+lrwx------ 1 florian florian 64  4. Okt 03:38 19 -> socket:[26800031]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:38 17 -> socket:[26800029]
+lrwx------ 1 florian florian 64  4. Okt 03:38 37 -> socket:[26800049]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:38 30 -> socket:[26800042]
+lrwx------ 1 florian florian 64  4. Okt 03:38 31 -> socket:[26800043]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:38 14 -> socket:[26800026]
+lrwx------ 1 florian florian 64  4. Okt 03:38 47 -> socket:[26800059]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:38 12 -> socket:[26800024]
+lrwx------ 1 florian florian 64  4. Okt 03:38 13 -> socket:[26800025]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:38 11 -> socket:[26800023]
+lrwx------ 1 florian florian 64  4. Okt 03:38 34 -> socket:[26800046]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:38 28 -> socket:[26800040]
+lrwx------ 1 florian florian 64  4. Okt 03:38 29 -> socket:[26800041]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:38 8 -> socket:[26800020]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:38 6 -> socket:[26800018]
+lrwx------ 1 florian florian 64  4. Okt 03:38 7 -> socket:[26800019]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:38 33 -> socket:[26800045]
+lrwx------ 1 florian florian 64  4. Okt 03:38 5 -> socket:[26800017]
+
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:38 24 -> socket:[26796990]
+lrwx------ 1 florian florian 64  4. Okt 03:38 25 -> socket:[26796991]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:38 22 -> socket:[26796988]
+lrwx------ 1 florian florian 64  4. Okt 03:38 23 -> socket:[26796989]
+lrwx------ 1 florian florian 64  4. Okt 03:38 38 -> socket:[26797004]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:38 21 -> socket:[26796987]
+lrwx------ 1 florian florian 64  4. Okt 03:38 32 -> socket:[26796998]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:38 20 -> socket:[26796986]
+lrwx------ 1 florian florian 64  4. Okt 03:38 49 -> socket:[26797015]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:38 19 -> socket:[26796985]
+lrwx------ 1 florian florian 64  4. Okt 03:38 42 -> socket:[26797008]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:38 36 -> socket:[26797002]
+lrwx------ 1 florian florian 64  4. Okt 03:38 37 -> socket:[26797003]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:38 30 -> socket:[26796996]
+lrwx------ 1 florian florian 64  4. Okt 03:38 31 -> socket:[26796997]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:38 46 -> socket:[26797012]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:38 40 -> socket:[26797006]
+lrwx------ 1 florian florian 64  4. Okt 03:38 41 -> socket:[26797007]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:38 34 -> socket:[26797000]
+lrwx------ 1 florian florian 64  4. Okt 03:38 35 -> socket:[26797001]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:38 29 -> socket:[26796995]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:38 45 -> socket:[26797011]
+lrwx------ 1 florian florian 64  4. Okt 03:38 8 -> socket:[26796974]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:38 39 -> socket:[26797005]
+lrwx------ 1 florian florian 64  4. Okt 03:38 7 -> socket:[26796973]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:38 33 -> socket:[26796999]
+lrwx------ 1 florian florian 64  4. Okt 03:38 4 -> socket:[26796970]
+
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:38 42 -> socket:[26806373]
+lrwx------ 1 florian florian 64  4. Okt 03:38 43 -> socket:[26806374]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:38 36 -> socket:[26806367]
+lrwx------ 1 florian florian 64  4. Okt 03:38 37 -> socket:[26806368]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:38 30 -> socket:[26806361]
+lrwx------ 1 florian florian 64  4. Okt 03:38 31 -> socket:[26806362]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:38 46 -> socket:[26806377]
+lrwx------ 1 florian florian 64  4. Okt 03:38 47 -> socket:[26806378]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:38 40 -> socket:[26806371]
+lrwx------ 1 florian florian 64  4. Okt 03:38 41 -> socket:[26806372]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:38 10 -> socket:[26806341]
+lrwx------ 1 florian florian 64  4. Okt 03:38 35 -> socket:[26806366]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:38 29 -> socket:[26806360]
+lrwx------ 1 florian florian 64  4. Okt 03:38 9 -> socket:[26806340]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:38 45 -> socket:[26806376]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:38 39 -> socket:[26806370]
+lrwx------ 1 florian florian 64  4. Okt 03:38 6 -> socket:[26806337]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:38 4 -> socket:[26806335]
+lrwx------ 1 florian florian 64  4. Okt 03:38 5 -> socket:[26806336]
+
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:38 22 -> socket:[26807402]
+lrwx------ 1 florian florian 64  4. Okt 03:38 23 -> socket:[26807403]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:38 21 -> socket:[26807401]
+lrwx------ 1 florian florian 64  4. Okt 03:38 32 -> socket:[26807412]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:38 48 -> socket:[26807428]
+lrwx------ 1 florian florian 64  4. Okt 03:38 49 -> socket:[26807429]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:38 42 -> socket:[26807422]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:38 16 -> socket:[26807396]
+lrwx------ 1 florian florian 64  4. Okt 03:38 36 -> socket:[26807416]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:38 15 -> socket:[26807395]
+lrwx------ 1 florian florian 64  4. Okt 03:38 30 -> socket:[26807410]
+lrwx------ 1 florian florian 64  4. Okt 03:38 31 -> socket:[26807411]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:38 14 -> socket:[26807394]
+lrwx------ 1 florian florian 64  4. Okt 03:38 47 -> socket:[26807427]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:38 13 -> socket:[26807393]
+lrwx------ 1 florian florian 64  4. Okt 03:38 40 -> socket:[26807420]
+lrwx------ 1 florian florian 64  4. Okt 03:38 41 -> socket:[26807421]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:38 34 -> socket:[26807414]
+lrwx------ 1 florian florian 64  4. Okt 03:38 35 -> socket:[26807415]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:38 29 -> socket:[26807409]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:38 8 -> socket:[26807388]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:38 39 -> socket:[26807419]
+lrwx------ 1 florian florian 64  4. Okt 03:38 7 -> socket:[26807387]
+total 0
+lrwx------ 1 florian florian 64  4. Okt 03:38 33 -> socket:[26807413]
+lrwx------ 1 florian florian 64  4. Okt 03:38 4 -> socket:[26807384]
+
