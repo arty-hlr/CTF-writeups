@@ -1,3 +1,0 @@
-get obj.mainaccount(0x0804a048) to be non zero
-*(*obj.mainaccount + 0x40) == 0x6b637566
-
