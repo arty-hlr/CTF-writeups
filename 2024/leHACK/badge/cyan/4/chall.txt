@@ -1,0 +1,12 @@
+Dans les années 80, alors qu'il travaillait au Abalon Club, Gordan a inventé une machine à voyager dans le temps, capable de l'emmener à n'importe quelle période comprise entre 1970 et 2038. Une fois la machine achevée, le 25 juin 1988, il la déclenche à 18h37 précise.
+
+Par un heureux hasard, sa machine réapparait à l'ouverture de leHack 2024, à la Cité des sciences. Une photo immortalise ce moment.
+
+Problème, lors de ce voyage, le code rendant possible le voyage dans le temps a été corrompu. Pour retourner à son époque, ce code doit être retrouvé.
+
+In the 1980s, while working at the Abalon Club, Gordan invented a time machine capable of taking him to any period between 1970 and 2038. Once the machine was completed, on 25 June 1988, he set it off at precisely 6.37pm.
+
+By a happy coincidence, his machine reappeared at the opening of leHack 2024, at the Cité des sciences. A photo immortalised the moment.
+
+The problem is that during this journey, the code that makes time travel possible has been corrupted. To return to his own time, the code has to be found.
+
