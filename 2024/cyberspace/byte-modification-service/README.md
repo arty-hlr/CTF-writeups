@@ -81,7 +81,7 @@ But we went another way and decided to overwrite a byte in the PLT.
 
 So with the knowledge that the PLT is writable, which is where GOT redirects where the `exit` function for example has not been resolved yet, we also realized that the `win` function is *straight* after the `bye` function in the binary. So near actually (and because of the call to exit that doesn't return), that ghidra even thinks it's the same function:
 
-![bye and win functions in the ghidra decompiler](ghidra_bye_win.png) 
+![bye and win functions in the ghidra decompiler](screenshots/ghidra_bye_win.png) 
 
 Which means, that if we somehow manage to *return* instead of calling `exit`, well the execution would continue straight into the `win` function. And so we went and overwrote the first byte of `exit@plt` with a `ret` instruction. Easy enough, right? Right? Well actually not, because this made the stack not 16 bytes aligned anymore, and libc didn't like that. So we need a `ret 0x8` instruction instead, which is a bit longer... And that works! We then return straight into `win` and the binary prints us the flag :)
 
