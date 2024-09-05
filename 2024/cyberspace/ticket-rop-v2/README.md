@@ -2,7 +2,7 @@ Second pwn challenge of the CTF, after having spent too much time on the first o
 
 # Overview
 
-The binary is pretty simple and allows us to create tickets, view tickets, and log in as admin. As it's unstripped, there's less reverse engineering to do as we have access to the function names for example.
+The binary is pretty simple and allows us to create tickets, view tickets, and log in as admin. As it's unstripped, there's less reverse engineering to do as we have access to the function and variable names.
 
 # Admin password overwrite
 
@@ -81,7 +81,7 @@ Let's check the exploit mitigations quick before we go further:
 
 We then need a number of leaks, first the canary, then the return address so that we can infer the base address of the binary, but also the base address of libc somehow if we want to have access to good ROP gadgets. Once we have all that, we can ret2system in libc and have a remote shell.
 
-The canary and return address leaks are easy thanks to the format string vulnerability, we can just printf those from the stack directly, respectively at offsets 8 and 9, so we can use `%8$p` and `%9$p` to print them directly. Once we have the canary, we can ROP, once we have the base address of the binary, we can make calls to functions in the binary.
+The canary and return address leaks are easy thanks to the format string vulnerability, we can just printf those from the stack directly, respectively at offsets 8 and 9, so we can use `%8$p` and `%9$p` to print them directly. Once we have the canary and the base address of the binary, we can begin ROP with functions in the main binary.
 
 ```shell
 [*] Canary: 0x89f36dd986dc5800
@@ -97,7 +97,7 @@ To leak a libc address, we had to use a custom ROP chain to print the value in `
 0x0018:           0x16d4 adminpass()
 ```
 
-We basically use a `pop rdi` gadget to put `puts@got` as first argument to `puts` (remember the first argument is passed in RDI, not on the stack for x64 linux), which then prints it to us.
+We basically use a `pop rdi` gadget to put `puts@got` as first argument to `puts` (remember the first argument is passed in RDI, not on the stack for x64 linux), which then prints the leaked libc address.
 
 The last part of exploitation is the main ROP chain, again very simple with pwntools in two lines, now that we can look for gadgets in libc:
 
